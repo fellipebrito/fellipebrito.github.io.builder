@@ -6,7 +6,7 @@ permalink: /happy-4th-july/
 categories:
   - Uncategorized
 ---
-[<img class="size-large wp-image-367 aligncenter" alt="Usa-Flag-Hd-Wallpaper-3108x2368" src="/img/posts//2015/07/Usa-Flag-Hd-Wallpaper-3108x2368-1024x780.jpg" width="600" height="457" />][1]
+[<img class="size-large wp-image-367 aligncenter" alt="Usa-Flag-Hd-Wallpaper-3108x2368" src="/img/posts/2015/07/Usa-Flag-Hd-Wallpaper-3108x2368-1024x780.jpg" width="600" height="457" />][1]
 
 I really think it might be hard to understand what it means the 4th of July if you had never experienced the lack of freedom.
 
@@ -24,4 +24,4 @@ I&#8217;m glad to be here, not sure how much long it will be, but for now, I&#82
 
 Happy 4th July.
 
- [1]: /img/posts//2015/07/Usa-Flag-Hd-Wallpaper-3108x2368.jpg
+ [1]: /img/posts/2015/07/Usa-Flag-Hd-Wallpaper-3108x2368.jpg

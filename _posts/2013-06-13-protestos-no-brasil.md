@@ -6,7 +6,7 @@ permalink: /protestos-no-brasil/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-35 aligncenter" alt="martin-luther-king21" src="/img/posts//2013/06/martin-luther-king21-300x259.jpg" width="300" height="259" />][1]
+[<img class="size-medium wp-image-35 aligncenter" alt="martin-luther-king21" src="/img/posts/2013/06/martin-luther-king21-300x259.jpg" width="300" height="259" />][1]
 
 Todo mundo reclama que ninguém faz nada. Todo mundo reclama que não há o que fazer. Aí os caras partem pra cima, fazem passeata, organizam milhares de pessoas em cidades diferentes e vão pras ruas reclamar, e todo mundo critica.
 
@@ -28,4 +28,4 @@ Participe, ou não participe, mas nao os acuse de estarem &#8220;atrapalhando su
   <strong>&#8220;O que me preocupa não é nem o grito dos corruptos, dos violentos, dos desonestos, dos sem caráter, dos sem ética&#8230; O que me preocupa é o silêncio dos bons.&#8221;</strong>
 </p>
 
- [1]: /img/posts//2013/06/martin-luther-king21.jpg
+ [1]: /img/posts/2013/06/martin-luther-king21.jpg

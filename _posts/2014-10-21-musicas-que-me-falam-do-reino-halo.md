@@ -6,7 +6,7 @@ permalink: /musicas-que-me-falam-do-reino-halo/
 categories:
   - musica
 ---
-[<img class="size-full wp-image-282 aligncenter" alt="thumb" src="/img/posts//2014/10/thumb.jpg" width="240" height="200" />][1]
+[<img class="size-full wp-image-282 aligncenter" alt="thumb" src="/img/posts/2014/10/thumb.jpg" width="240" height="200" />][1]
 
 Você se lembra de todos os muros que eu construí? Pois então, agora eles estão caindo!  
 Eles nem conseguem lutar mais, porque eu achei um jeito de fazer você entrar.  
@@ -26,4 +26,4 @@ Eu oro para que ela nunca vá embora
 
 &nbsp;
 
- [1]: /img/posts//2014/10/thumb.jpg
+ [1]: /img/posts/2014/10/thumb.jpg

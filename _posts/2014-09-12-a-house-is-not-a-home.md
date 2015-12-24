@@ -47,6 +47,6 @@ Tenho conhecido o mundo com a mulher da minha vida, mas quero muito compartilhar
 *Mas é apenas um jogo louco*  
 *Quando ele termina, ele termina em lágrimas.*
 
-[<img class="size-full wp-image-269 aligncenter" alt="Soundtrack_of_my_Life_by_carlitaestrella[1]" src="/img/posts//2014/09/Soundtrack_of_my_Life_by_carlitaestrella1.jpg" width="300" height="300" />][1]
+[<img class="size-full wp-image-269 aligncenter" alt="Soundtrack_of_my_Life_by_carlitaestrella[1]" src="/img/posts/2014/09/Soundtrack_of_my_Life_by_carlitaestrella1.jpg" width="300" height="300" />][1]
 
- [1]: /img/posts//2014/09/Soundtrack_of_my_Life_by_carlitaestrella1.jpg
+ [1]: /img/posts/2014/09/Soundtrack_of_my_Life_by_carlitaestrella1.jpg

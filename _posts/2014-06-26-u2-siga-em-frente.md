@@ -7,7 +7,7 @@ categories:
   - musica
   - u2
 ---
-[<img class="size-medium wp-image-187 aligncenter" alt="siga-em-frente" src="/img/posts//2014/06/siga-em-frente-300x178.jpg" width="300" height="178" />][1]
+[<img class="size-medium wp-image-187 aligncenter" alt="siga-em-frente" src="/img/posts/2014/06/siga-em-frente-300x178.jpg" width="300" height="178" />][1]
 
 <span style="font-size: 1em;">Ultimamente, quando me perguntam qual minha banda gospel favorita, eu respondo sem pensar: U2!</span>
 
@@ -49,4 +49,4 @@ Tudo o que você raciocina, é apenas tempo
 *Você só pode aguentar até um certo ponto, mas eu te digo:*  
 *Siga em frente! Siga em frente!*
 
- [1]: /img/posts//2014/06/siga-em-frente.jpg
+ [1]: /img/posts/2014/06/siga-em-frente.jpg

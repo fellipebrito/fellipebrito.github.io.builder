@@ -6,7 +6,7 @@ permalink: /eu-continuo-escolhend-o-caminho/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-359 aligncenter" alt="11137614_973717679306037_115024636_n" src="/img/posts//2015/06/11137614_973717679306037_115024636_n.jpg" width="320" height="320" />][1]
+[<img class="size-full wp-image-359 aligncenter" alt="11137614_973717679306037_115024636_n" src="/img/posts/2015/06/11137614_973717679306037_115024636_n.jpg" width="320" height="320" />][1]
 
 Há mais de 2 anos eu escrevi sobre tudo isso que está acontecendo hoje.
 
@@ -31,4 +31,4 @@ Estamos todos sobre o mesmo chão. A maioria aponta cercas e muros… EU escolho
 
 <a href="http://fellipebrito.com/eu-escolho-o-caminho/" target="_blank">http://fellipebrito.com/eu-escolho-o-caminho/</a>
 
- [1]: /img/posts//2015/06/11137614_973717679306037_115024636_n.jpg
+ [1]: /img/posts/2015/06/11137614_973717679306037_115024636_n.jpg

@@ -6,7 +6,7 @@ permalink: /desigrejados/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-274 aligncenter" alt="[Mero Cristianismo] Diário de um desigrejado - Lugar de desigrejado é nas ruas" src="/img/posts//2014/09/Mero-Cristianismo-Diário-de-um-desigrejado-Lugar-de-desigrejado-é-nas-ruas-300x170.png" width="300" height="170" />][1]
+[<img class="size-medium wp-image-274 aligncenter" alt="[Mero Cristianismo] Diário de um desigrejado - Lugar de desigrejado é nas ruas" src="/img/posts/2014/09/Mero-Cristianismo-Diário-de-um-desigrejado-Lugar-de-desigrejado-é-nas-ruas-300x170.png" width="300" height="170" />][1]
 
 Reflexões sobre o tema &#8220;desigrejado&#8221;:
 
@@ -32,4 +32,4 @@ Não se associem com os que irão mergulhá-los na sujeira.
 
 Quero todos vocês para mim. Serei um pai para vocês e vocês serão filhos e filhas para mim.
 
- [1]: /img/posts//2014/09/Mero-Cristianismo-Diário-de-um-desigrejado-Lugar-de-desigrejado-é-nas-ruas.png
+ [1]: /img/posts/2014/09/Mero-Cristianismo-Diário-de-um-desigrejado-Lugar-de-desigrejado-é-nas-ruas.png

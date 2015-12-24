@@ -6,7 +6,7 @@ permalink: /a-forca-dos-habitos/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-135 aligncenter" alt="pare de falar" src="/img/posts//2014/02/pare-de-falar.jpg" width="280" height="180" />][1]
+[<img class="size-full wp-image-135 aligncenter" alt="pare de falar" src="/img/posts/2014/02/pare-de-falar.jpg" width="280" height="180" />][1]
 
 **Nós somos nossos hábitos.**
 
@@ -28,7 +28,7 @@ O mesmo vale para outras coisas: Voce quer stressar menos no transito? Ofereça 
 
 Uma outra coisa que estou fazendo é para minha saúde. Eu já tive tendinite um ano atras quando era proprietário de uma startup e estava trabalhando além do limite. O problema é que, uma vez que voce já forcou o seu corpo a este ponto, ele fica mais sensível para se ressentir da lesao no futuro. O que voltou a acontecer essa semana. Entao fui procurar por maneiras mais saudáveis de digitar ( eu passo 12, 14 horas por dia digitando), foi nessa procura que achei o Kinesis.
 
-[<img class="size-medium wp-image-134 aligncenter" alt="kinesis_corporation_advantage_contoured_keyboard_p3_650x400" src="/img/posts//2014/02/kinesis_corporation_advantage_contoured_keyboard_p3_650x400-300x184.jpg" width="300" height="184" />][2]
+[<img class="size-medium wp-image-134 aligncenter" alt="kinesis_corporation_advantage_contoured_keyboard_p3_650x400" src="/img/posts/2014/02/kinesis_corporation_advantage_contoured_keyboard_p3_650x400-300x184.jpg" width="300" height="184" />][2]
 
 O Kinesis é um teclado com um layout novo. As teclas sao separadas em dois blocos bem distantes e com um alinhamento de profundidade para evitar que voce dobre os bracos para digitar. Excelente. A nao ser pelo fato de eu usar teclados da apple há 5 anos, o que me fez, no primeiro dia, cair de uma velocidade de 70 palavras por minuto para 11!!! (este post por exemplo já levou mais de 30 minutos para ser escrito e se voce reparar fazem alguns paragrafos que eu larguei mao dos acentos =P
 
@@ -38,5 +38,5 @@ E você, eu gostaria de convidá-lo a pegar um ou dois &#8220;objetivos&#8221; q
 
 ***Que possamos ser a mudanca que queremos ver no mundo, o que a gente faz fala muito mais do que só falar.***
 
- [1]: /img/posts//2014/02/pare-de-falar.jpg
- [2]: /img/posts//2014/02/kinesis_corporation_advantage_contoured_keyboard_p3_650x400.jpg
+ [1]: /img/posts/2014/02/pare-de-falar.jpg
+ [2]: /img/posts/2014/02/kinesis_corporation_advantage_contoured_keyboard_p3_650x400.jpg

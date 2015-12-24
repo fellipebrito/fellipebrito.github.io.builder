@@ -7,7 +7,7 @@ categories:
   - Coisas que eu acho que acho
   - Pensamentos
 ---
-[<img class="size-medium wp-image-230 aligncenter" alt="f686a29c512b38f817edea2c45a9210a" src="/img/posts//2014/07/f686a29c512b38f817edea2c45a9210a-233x300.jpg" width="233" height="300" />][1]
+[<img class="size-medium wp-image-230 aligncenter" alt="f686a29c512b38f817edea2c45a9210a" src="/img/posts/2014/07/f686a29c512b38f817edea2c45a9210a-233x300.jpg" width="233" height="300" />][1]
 
 Uma das passagens mais famosas da Bíblia é a que se refere ao momento em que Jesus acalmou a tempestade.
 
@@ -26,4 +26,4 @@ O que eu aprendi hoje com este texto é que, independente do tamanho da tempesta
 
 O que eu aprendi é que: *Quando a vida te decepciona, qual é a solução? Continue a nadar! Continue a nadar! Continue a nadar, nadar, nadar! Para achar a solução, nadar, nadar!*
 
- [1]: /img/posts//2014/07/f686a29c512b38f817edea2c45a9210a.jpg
+ [1]: /img/posts/2014/07/f686a29c512b38f817edea2c45a9210a.jpg

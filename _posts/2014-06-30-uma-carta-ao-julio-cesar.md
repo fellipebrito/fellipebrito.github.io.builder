@@ -6,7 +6,7 @@ permalink: /uma-carta-ao-julio-cesar/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-190 aligncenter" alt="2131089_full-lnd" src="/img/posts//2014/06/2131089_full-lnd-300x168.jpg" width="300" height="168" />][1]
+[<img class="size-medium wp-image-190 aligncenter" alt="2131089_full-lnd" src="/img/posts/2014/06/2131089_full-lnd-300x168.jpg" width="300" height="168" />][1]
 
 Eu estou nervoso com essa copa como poucas vezes na vida fiquei. Na real, eu fiquei tão nervoso (somado a alguns problemas particulares) que tive uma crise de stress que me deixou de cama e a base de remédios, com dores horríveis, por uns bons dias.
 
@@ -47,4 +47,4 @@ Lute por seus sonhos. Comemore suas vitórias. Chore suas derrotas. Mas acima de
 * Extraído do texto <a href="http://globoesporte.globo.com/blogs/especial-blog/coluna-dois/post/o-milimetro-de-jara.html" target="_blank">blog do Gustavo Poli</a>  
 ** Extraído do excelente <a href="http://www.ricaperrone.com.br/conquistem-na/" target="_blank">blog do Rica Perrone</a>
 
- [1]: /img/posts//2014/06/2131089_full-lnd.jpg
+ [1]: /img/posts/2014/06/2131089_full-lnd.jpg

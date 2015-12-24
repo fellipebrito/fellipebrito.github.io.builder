@@ -6,7 +6,7 @@ permalink: /o-dia-dos-do-contra/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-199 aligncenter" alt="brasil-chora" src="/img/posts//2014/07/brasil-chora-300x199.jpg" width="300" height="199" />][1]
+[<img class="size-medium wp-image-199 aligncenter" alt="brasil-chora" src="/img/posts/2014/07/brasil-chora-300x199.jpg" width="300" height="199" />][1]
 
 Bem, segundo os meus amigos analistas de futebol e política&#8230; este resultado significa que a Dilma e o PT vao perder as eleições, certo?!
 
@@ -20,4 +20,4 @@ Que seja a festa dos que torcem contra. Hoje é dia de você sorrir, enquanto se
 
 Só peço que sejam minimamente educados, estes 20 caras serão crucificados e terão uma vida horrível de agora em diante, serão pra sempre lembrados por este resultado. Procure saber o que aconteceu com os caras que perderam a final de 50, e tenha um pouquinho de &#8216;misericórdia&#8217;&#8230;
 
- [1]: /img/posts//2014/07/brasil-chora.jpg
+ [1]: /img/posts/2014/07/brasil-chora.jpg

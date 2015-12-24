@@ -6,7 +6,7 @@ permalink: /acao-de-gracas/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-299 aligncenter" alt="10256495_800042343390840_2508863785232486101_n" src="/img/posts//2014/11/10256495_800042343390840_2508863785232486101_n-300x300.jpg" width="300" height="300" />][1]
+[<img class="size-medium wp-image-299 aligncenter" alt="10256495_800042343390840_2508863785232486101_n" src="/img/posts/2014/11/10256495_800042343390840_2508863785232486101_n-300x300.jpg" width="300" height="300" />][1]
 
 Nós brasileiros adoramos copiar os americanos. A cultura americana é vista em nossas vidas, festas, e até em palavras que &#8220;emprestamos&#8221; dos americanos. Passamos o verão morrendo de calor e suando, mas mesmo assim nossos shoppings estão fantasiados de neve e com meias(!) para guardarmos presentes. Temos um foclore riquíssimo, com sacis, mulas e curupiras, mas festejamos o Halloween com bruxas e fantasmas. Até para promoções copíamos eles, com nossa famigerada Black Friday brasileira.
 
@@ -38,4 +38,4 @@ O exercício de procurar algo pelo qual dar graças, construir altares, e permit
 
 &nbsp;
 
- [1]: /img/posts//2014/11/10256495_800042343390840_2508863785232486101_n.jpg
+ [1]: /img/posts/2014/11/10256495_800042343390840_2508863785232486101_n.jpg
