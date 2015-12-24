@@ -6,7 +6,7 @@ permalink: /marina-e-a-guerra-santa/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-265 aligncenter" alt="silvamain" src="http://fellipebrito.com/wp-content/uploads/2014/08/silvamain-300x180.jpg" width="300" height="180" />][1]
+[<img class="size-medium wp-image-265 aligncenter" alt="silvamain" src="/img/posts//2014/08/silvamain-300x180.jpg" width="300" height="180" />][1]
 
 Vai começar a baixaria petista ? Segundo o Estadão &#8220;o plano no PT é colar em Marina o carimbo de radical , conservadora e fundamentalista&#8221;. Marina já foi a jóia da coroa petista agora é &#8230;&#8221; Radical , Conservadora e Fundamentalista&#8221;. Ah, sim . Entendi .
 
@@ -46,4 +46,4 @@ Eu sou CRENTE SIM e sou SIM brasileiro, politizado, cidadão e amo meus amigos c
   </p>
 </div>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/08/silvamain.jpg
+ [1]: /img/posts//2014/08/silvamain.jpg

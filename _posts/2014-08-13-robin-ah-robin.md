@@ -6,7 +6,7 @@ permalink: /robin-ah-robin/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-242 aligncenter" alt="tumblr_luxczfdocB1qzxyqfo1_250" src="http://fellipebrito.com/wp-content/uploads/2014/08/tumblr_luxczfdocB1qzxyqfo1_250-225x300.jpg" width="225" height="300" />][1]
+[<img class="size-medium wp-image-242 aligncenter" alt="tumblr_luxczfdocB1qzxyqfo1_250" src="/img/posts//2014/08/tumblr_luxczfdocB1qzxyqfo1_250-225x300.jpg" width="225" height="300" />][1]
 
 O pouco que parei pra pensar sobre a morte do R. Williams foi um mar de tristeza. Como pode alguém que faz do &#8220;humor&#8221; a sua vida acaba deprimido e enforcado?!
 
@@ -22,4 +22,4 @@ Independente do quarto que escolhemos para morar, a sala em que convivemos é a 
 
 Que Deus tenha misericórdia de nós.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/08/tumblr_luxczfdocB1qzxyqfo1_250.jpg
+ [1]: /img/posts//2014/08/tumblr_luxczfdocB1qzxyqfo1_250.jpg

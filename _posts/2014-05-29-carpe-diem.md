@@ -6,7 +6,7 @@ permalink: /carpe-diem/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-172 aligncenter" alt="carpe-diem" src="http://fellipebrito.com/wp-content/uploads/2014/05/carpe-diem-300x200.jpg" width="300" height="200" />][1]
+[<img class="size-medium wp-image-172 aligncenter" alt="carpe-diem" src="/img/posts//2014/05/carpe-diem-300x200.jpg" width="300" height="200" />][1]
 
 &#8220;Morar nos Estados Unidos é bom, mas é uma merda. Morar no Brasil é uma merda, mas é bom&#8221;. &#8211; Tom Jobim
 
@@ -16,4 +16,4 @@ Carpe diem* my friend!
 
 * Carpe diem é uma frase em latim de um poema de Horácio, e é popularmente traduzida para &#8216;colha o dia&#8217; ou &#8216;aproveite o momento&#8217;.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/05/carpe-diem.jpg
+ [1]: /img/posts//2014/05/carpe-diem.jpg

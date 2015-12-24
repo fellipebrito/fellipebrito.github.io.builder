@@ -6,7 +6,7 @@ permalink: /desconverta-se/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-237 aligncenter" alt="497261-Keep-calm-and-não-se-misture-com-essa-gentalha." src="http://fellipebrito.com/wp-content/uploads/2014/08/497261-Keep-calm-and-não-se-misture-com-essa-gentalha.-254x300.jpg" width="254" height="300" />][1]
+[<img class="size-medium wp-image-237 aligncenter" alt="497261-Keep-calm-and-não-se-misture-com-essa-gentalha." src="/img/posts//2014/08/497261-Keep-calm-and-não-se-misture-com-essa-gentalha.-254x300.jpg" width="254" height="300" />][1]
 
 Adoro a citação de Milton Nascimento: *Certas canções que ouço. Cabem tão dentro de mim. Que perguntar carece: &#8220;Como não fui eu que fiz?!&#8221;*
 
@@ -41,4 +41,4 @@ EU?!? Sou um antigo crente com sintomas de cristão. Cabeça quente. Do espirito
 
 Eu quero ajuda pra ser igual o último cristão.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/08/497261-Keep-calm-and-não-se-misture-com-essa-gentalha..jpg
+ [1]: /img/posts//2014/08/497261-Keep-calm-and-não-se-misture-com-essa-gentalha..jpg

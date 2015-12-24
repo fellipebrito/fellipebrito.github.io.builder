@@ -6,7 +6,7 @@ permalink: /o-desafio-de-ser-crente/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-246 aligncenter" alt="1795609_10152316502144161_1986893913_n" src="http://fellipebrito.com/wp-content/uploads/2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg" width="300" height="231" />][1]
+[<img class="size-medium wp-image-246 aligncenter" alt="1795609_10152316502144161_1986893913_n" src="/img/posts//2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg" width="300" height="231" />][1]
 
 Em Abril eu estive em uma das maiores conferências com desenvolvedores Ruby do mundo em Chicago. Todos os caras que eu admiro estavam lá. Os melhores desenvolvedores, palestrantes, empreendedores&#8230; As mentes mais criativas e impressionantes da minha profissão estavam lá.
 
@@ -54,4 +54,4 @@ O desafio é ser um tempero interessante em um mundo que é cada vez mais &#8220
 
 O desafio, como Carl Sagan, um &#8220;santo&#8221; dos ateus e agnósticos, sabiamente falou em seu livro, é tentar ficar quieto&#8230;  *&#8220;Porque eu não posso. Eu… tive uma experiência… Eu não posso provar isso, Eu não posso explicar isso, mas tudo que eu sei como ser humano, tudo que eu sou me diz que isso foi real! Algo maravilhoso me foi entregue, algo que me mudou pra sempre… Uma visão… do universo, que nos diz, inquestionavelmente, o quão pequenos e insignificantes nós somos e o quão… raro e preciosos nós somos! Uma visão que nos diz que pertencemos algo maior que nós mesmos, e que não estamos sozinhos! Eu desejo… Eu… gostaria muito de poder compartilhar isso… Eu gostaria que, cada um, mesmo que por um… momento, pudesse sentir… esse temor, e humilhação, e paz. Mas … isso continua sendo apenas o meu desafio.&#8221;*
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/08/1795609_10152316502144161_1986893913_n.jpg
+ [1]: /img/posts//2014/08/1795609_10152316502144161_1986893913_n.jpg

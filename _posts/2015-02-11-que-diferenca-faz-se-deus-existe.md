@@ -6,7 +6,7 @@ permalink: /que-diferenca-faz-se-deus-existe/
 categories:
   - apologetica
 ---
-#### [<img class="size-full wp-image-342 aligncenter" alt="Deus existe" src="http://fellipebrito.com/wp-content/uploads/2015/02/Deus-existe.jpg" width="440" height="300" />][1]
+#### [<img class="size-full wp-image-342 aligncenter" alt="Deus existe" src="/img/posts//2015/02/Deus-existe.jpg" width="440" height="300" />][1]
 
 #### I. Se Deus não existe, então toda a vida humana bem como cada indivíduo será destruído.
 
@@ -44,7 +44,7 @@ Além disso, me parece que mesmo que as evidências para essas duas opções fos
 
 Meu objetivo, por hora, é mais modesto do que lhe convencer de que Deus existe, eu apenas espero que você *pense* a respeito desse problema, para realizar que o assunto sobre a *existência de Deus* tem profundas consequências para nossas vidas e que nós não podemos nos dar o privilégio de ser indiferentes quanto a isso.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/02/Deus-existe.jpg
+ [1]: /img/posts//2015/02/Deus-existe.jpg
  [2]: https://github.com/fellipebrito/on-guard/blob/master/que-diferenca-faz-se-deus-existe.md#ii-se-n%C3%A3o-h%C3%A1-um-deus-e-n%C3%A3o-h%C3%A1-vida-ap%C3%B3s-a-morte-ent%C3%A3o-a-vida-n%C3%A3o-tem
  [3]: https://github.com/fellipebrito/on-guard/blob/master/que-diferenca-faz-se-deus-existe.md#iii-%C3%89-imposs%C3%ADvel-viver-consistentemente-e-feliz-olhando-o-mundo-de-um-ponto-de-vista-ateu
  [4]: https://github.com/fellipebrito/on-guard/blob/master/que-diferenca-faz-se-deus-existe.md#iv-o-cristianismo-b%C3%ADblico-desafia-essa-maneira-de-olhar-a-vida

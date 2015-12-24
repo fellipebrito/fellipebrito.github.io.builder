@@ -6,7 +6,7 @@ permalink: /total-de-mortes/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-213 aligncenter" alt="Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl" src="http://fellipebrito.com/wp-content/uploads/2014/07/Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl.jpg" width="594" height="396" />][1]
+[<img class="size-full wp-image-213 aligncenter" alt="Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl" src="/img/posts//2014/07/Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl.jpg" width="594" height="396" />][1]
 
 Essa é a conta de quantos americanos morreram em guerras e quantos brasileiros morrem no transito ou são assassinados. Os números revelam o que já sabemos, mas não deixa de ser assustador. Algo precisa ser feito.
 
@@ -30,4 +30,4 @@ Total de mortos no Brasil, por Homicidio e Transito EM UM ANO = **95,042**
 ** http://professorlfg.jusbrasil.com.br/artigos/113704460/mortes-no-transito-brasil-e-o-4-do-mundo**  
 ** http://en.wikipedia.org/wiki/United\_States\_military\_casualties\_of_war**
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/07/Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl.jpg
+ [1]: /img/posts//2014/07/Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl.jpg

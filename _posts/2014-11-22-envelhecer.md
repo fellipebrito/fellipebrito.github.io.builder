@@ -6,7 +6,7 @@ permalink: /envelhecer/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-296 aligncenter" alt="frases-sobre-a-saudade-8" src="http://fellipebrito.com/wp-content/uploads/2014/11/frases-sobre-a-saudade-8-300x247.jpg" width="300" height="247" />][1]
+[<img class="size-medium wp-image-296 aligncenter" alt="frases-sobre-a-saudade-8" src="/img/posts//2014/11/frases-sobre-a-saudade-8-300x247.jpg" width="300" height="247" />][1]
 
 Como nós dizemos tchau para o que tivémos?  
 Os bons tempos que nos fizeram rir sao muito maiores do que os maus.
@@ -25,4 +25,4 @@ Vou sempre levar comigo as memórias, para eles serem o sol depois da chuva
 
 &nbsp;
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/11/frases-sobre-a-saudade-8.jpg
+ [1]: /img/posts//2014/11/frases-sobre-a-saudade-8.jpg

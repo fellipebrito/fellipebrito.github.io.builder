@@ -6,7 +6,7 @@ permalink: /porque-eu-nao-vou-mais-a-igreja/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-353 aligncenter" alt="The_Church_Has_Left_The_Building_Banner" src="http://fellipebrito.com/wp-content/uploads/2015/02/The_Church_Has_Left_The_Building_Banner.png" width="738" height="406" />][1]
+[<img class="size-full wp-image-353 aligncenter" alt="The_Church_Has_Left_The_Building_Banner" src="/img/posts//2015/02/The_Church_Has_Left_The_Building_Banner.png" width="738" height="406" />][1]
 
 O texto a seguir é longo, porque não há maneira simples e curta de se responder isso. Ouço essas perguntas 30x por ano, como fonte para respostas utilizei o fantástico livro &#8220;***Porque eu não quero mais ir a igreja***&#8220;. Aconselho MUITO a leitura desse livro.
 
@@ -156,4 +156,4 @@ Penso que Jesus vê a Igreja de modo totalmente distinto. Ele não fala dela com
   <em>Hoje não precisamos mais ficar falando sobre a Igreja. Precisamos é de gente preparada para viver a realidade dela. Ultimamente as pessoas no mundo inteiro vêm redescobrindo como fazer isso. Você pode ser uma delas, se permitir que Jesus o integre à Sua comunidade tal como Ele deseja.</em>
 </p>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/02/The_Church_Has_Left_The_Building_Banner.png
+ [1]: /img/posts//2015/02/The_Church_Has_Left_The_Building_Banner.png

@@ -6,7 +6,7 @@ permalink: /nao-deixe-o-samba-morrer/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-203 aligncenter" alt="BsHfhIdIQAAj1LB" src="http://fellipebrito.com/wp-content/uploads/2014/07/BsHfhIdIQAAj1LB-300x168.jpg" width="300" height="168" />][1]
+[<img class="size-medium wp-image-203 aligncenter" alt="BsHfhIdIQAAj1LB" src="/img/posts//2014/07/BsHfhIdIQAAj1LB-300x168.jpg" width="300" height="168" />][1]
 
 &nbsp;
 
@@ -32,4 +32,4 @@ Eu deixo ao sambista mais novo, o meu pedido final:
 
 <span style="font-size: 1em;">Não deixe o samba morrer<br /> </span><span style="font-size: 1em;">Não deixe o samba acabar<br /> </span><span style="font-size: 1em;">O morro foi feito de samba<br /> </span><span style="font-size: 1em;">De Samba, prá gente sambar</span>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/07/BsHfhIdIQAAj1LB.jpg
+ [1]: /img/posts//2014/07/BsHfhIdIQAAj1LB.jpg

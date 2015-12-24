@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="http://fellipebrito.com/wp-content/uploads/2014/06/Bp3r8qQCEAAtL54.jpg"><img class="aligncenter" alt="Bp3r8qQCEAAtL54" src="http://fellipebrito.com/wp-content/uploads/2014/06/Bp3r8qQCEAAtL54-300x127.jpg" width="600" height="254" /></a><em>Toda a água do mar não pode afundar um navio, a não ser que ela consiga entrar<br /> dentro no navio.<br /> </em><em>Da mesma maneira, todo o pessimismo do mundo não pode te colocar pra baixo,<br /> a não ser que você </em><em>permita ele entrar dentro de você.</em>
+  <a href="/img/posts//2014/06/Bp3r8qQCEAAtL54.jpg"><img class="aligncenter" alt="Bp3r8qQCEAAtL54" src="/img/posts//2014/06/Bp3r8qQCEAAtL54-300x127.jpg" width="600" height="254" /></a><em>Toda a água do mar não pode afundar um navio, a não ser que ela consiga entrar<br /> dentro no navio.<br /> </em><em>Da mesma maneira, todo o pessimismo do mundo não pode te colocar pra baixo,<br /> a não ser que você </em><em>permita ele entrar dentro de você.</em>
 </p>
 
 O que eu vejo nas ruas e nas conversas por &#8220;voz&#8221; é um mar de gente animada, empolgada e curtindo o momento. O que vejo nas fotos, são famílias unidas, amigos vestidos de verde e amarelo, churrasqueiras ligadas e muita risada.

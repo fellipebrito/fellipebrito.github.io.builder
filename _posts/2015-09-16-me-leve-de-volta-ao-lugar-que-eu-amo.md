@@ -6,7 +6,7 @@ permalink: /me-leve-de-volta-ao-lugar-que-eu-amo/
 categories:
   - Uncategorized
 ---
-[<img class="wp-image-379 aligncenter" alt="3f583341525e185f030f121000b793ed" src="http://fellipebrito.com/wp-content/uploads/2015/09/3f583341525e185f030f121000b793ed.jpg" width="432" height="432" />][1]
+[<img class="wp-image-379 aligncenter" alt="3f583341525e185f030f121000b793ed" src="/img/posts//2015/09/3f583341525e185f030f121000b793ed.jpg" width="432" height="432" />][1]
 
 <p style="text-align: left;">
   O &#8220;louvor&#8221; de hoje é do <strong><em>Red Hot Chili Peppers &#8211; Under the Bridge</em></strong>.
@@ -29,4 +29,4 @@ Pelo menos eu tenho o seu amor.
 
 &nbsp;
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/09/3f583341525e185f030f121000b793ed.jpg
+ [1]: /img/posts//2015/09/3f583341525e185f030f121000b793ed.jpg

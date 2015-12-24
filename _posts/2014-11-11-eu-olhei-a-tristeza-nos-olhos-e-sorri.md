@@ -6,7 +6,7 @@ permalink: /eu-olhei-a-tristeza-nos-olhos-e-sorri/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-290 aligncenter" alt="eu-olhei" src="http://fellipebrito.com/wp-content/uploads/2014/11/eu-olhei-222x300.jpg" width="222" height="300" />][1]
+[<img class="size-medium wp-image-290 aligncenter" alt="eu-olhei" src="/img/posts//2014/11/eu-olhei-222x300.jpg" width="222" height="300" />][1]
 
 **Eu olhei a tristeza nos olhos**  
 ** E eu sorri**  
@@ -32,4 +32,4 @@ Só a cruz esconderá quem você não é
 Eu olhei a tristeza nos olhos  
 E sorri
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/11/eu-olhei.jpg
+ [1]: /img/posts//2014/11/eu-olhei.jpg
