@@ -6,7 +6,7 @@ permalink: /total-de-mortes/
 categories:
   - Uncategorized
 ---
-[<img alt="Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl" src="/img/posts/2014/07/Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl.jpg" width="594" height="396" />][1]
+[<img alt="Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl" src="/img/posts/2014/07/Iraq+War+Soldier+Death+Toll+Hits+4000+-OriRqX9ZKBl.jpg"  />][1]
 
 Essa é a conta de quantos americanos morreram em guerras e quantos brasileiros morrem no transito ou são assassinados. Os números revelam o que já sabemos, mas não deixa de ser assustador. Algo precisa ser feito.
 

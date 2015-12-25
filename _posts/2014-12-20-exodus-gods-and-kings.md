@@ -6,7 +6,7 @@ permalink: /exodus-gods-and-kings/
 categories:
   - Uncategorized
 ---
-[<img alt="exodus_gods_and_kings_movie-wide" src="/img/posts/2014/12/exodus_gods_and_kings_movie-wide-300x187.jpg" width="300" height="187" />][1]
+[<img alt="exodus_gods_and_kings_movie-wide" src="/img/posts/2014/12/exodus_gods_and_kings_movie-wide-300x187.jpg"  />][1]
 
 Meus primeiros contatos com histórias bíblicas se deram ainda em casa quando meus avós gastavam sua lábia e criatividade para me ensinar as histórias do livro que fundamenta a fé cristã. Ainda na minha infância tive acesso a algumas histórinhas desenhadas a mão. Tentativas esforçadas, mas pífias na qualidade, de me mostrar o Mar Vermelho aberto, o gigante Golias, os músculos de Sansão e o menino Davi com seu &#8216;estilingue&#8217;. Assim foi a minha infância.
 

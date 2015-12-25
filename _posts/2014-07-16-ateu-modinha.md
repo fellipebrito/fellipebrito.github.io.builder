@@ -7,7 +7,7 @@ categories:
   - apologetica
   - Coisas que eu acho que acho
 ---
-[<img alt="ateu-modinha" src="/img/posts/2014/07/ateu-modinha.jpg" width="597" height="597" />][1]
+[<img alt="ateu-modinha" src="/img/posts/2014/07/ateu-modinha.jpg"  />][1]
 
 Ateísmo, num sentido amplo, é a ausência de crença na existência de divindades. O ateísmo é oposto ao teísmo, que em sua forma mais geral é a crença de que existe ao menos uma divindade.
 

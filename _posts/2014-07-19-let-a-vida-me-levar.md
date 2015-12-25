@@ -6,7 +6,7 @@ permalink: /let-a-vida-me-levar/
 categories:
   - Uncategorized
 ---
-[<img alt="images" src="/img/posts/2014/07/images.jpeg" width="311" height="162" />][1]
+[<img alt="images" src="/img/posts/2014/07/images.jpeg"  />][1]
 
 Se pra você:  
 - o Zeca Pagodinho falando &#8220;*Eu já passei por quase tudo nessa vida e agora estou esperando minha vez. Deixa a vida me levar*&#8221; é o povo brasileiro vivendo do &#8220;jeitinho&#8221; brasileiro, fazendo as coisas pela metade, sendo o que o brasileiro tem de pior

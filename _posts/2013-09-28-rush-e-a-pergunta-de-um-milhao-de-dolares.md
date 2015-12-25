@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <img alt="rush_movie-wide" src="/img/posts/2013/09/rush_movie-wide.jpg" width="691" height="432" />
+  <img alt="rush_movie-wide" src="/img/posts/2013/09/rush_movie-wide.jpg"  />
 </p>
 
 <p style="text-align: center;">

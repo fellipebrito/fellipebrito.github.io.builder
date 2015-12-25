@@ -6,7 +6,7 @@ permalink: /o-desafio-de-ser-crente/
 categories:
   - Uncategorized
 ---
-[<img alt="1795609_10152316502144161_1986893913_n" src="/img/posts/2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg" width="300" height="231" />][1]
+[<img alt="1795609_10152316502144161_1986893913_n" src="/img/posts/2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg"  />][1]
 
 Em Abril eu estive em uma das maiores conferências com desenvolvedores Ruby do mundo em Chicago. Todos os caras que eu admiro estavam lá. Os melhores desenvolvedores, palestrantes, empreendedores&#8230; As mentes mais criativas e impressionantes da minha profissão estavam lá.
 

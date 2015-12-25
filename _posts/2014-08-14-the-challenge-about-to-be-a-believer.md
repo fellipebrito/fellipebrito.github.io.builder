@@ -6,7 +6,7 @@ permalink: /the-challenge-about-to-be-a-believer/
 categories:
   - Uncategorized
 ---
-[<img alt="1795609_10152316502144161_1986893913_n" src="/img/posts/2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg" width="300" height="231" />][1]
+[<img alt="1795609_10152316502144161_1986893913_n" src="/img/posts/2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg"  />][1]
 
 I went to one of the biggest ruby conferences in the world, which happened last april in Chicago. Everyone who I look up to was there. The best developers, speakers and entrepreneurs&#8230; the brightest and most creative minds from my community were there to share their thoughts.
 

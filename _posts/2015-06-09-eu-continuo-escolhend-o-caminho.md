@@ -6,7 +6,7 @@ permalink: /eu-continuo-escolhend-o-caminho/
 categories:
   - Uncategorized
 ---
-[<img alt="11137614_973717679306037_115024636_n" src="/img/posts/2015/06/11137614_973717679306037_115024636_n.jpg" width="320" height="320" />][1]
+[<img alt="11137614_973717679306037_115024636_n" src="/img/posts/2015/06/11137614_973717679306037_115024636_n.jpg"  />][1]
 
 Há mais de 2 anos eu escrevi sobre tudo isso que está acontecendo hoje.
 

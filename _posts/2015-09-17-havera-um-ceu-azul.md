@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="/img/posts/2015/09/after-the-storm-gary-smith.jpg"><img alt="after-the-storm-gary-smith" src="/img/posts/2015/09/after-the-storm-gary-smith.jpg" width="441" height="294" /></a>
+  <a href="/img/posts/2015/09/after-the-storm-gary-smith.jpg"><img alt="after-the-storm-gary-smith" src="/img/posts/2015/09/after-the-storm-gary-smith.jpg"  /></a>
 </p>
 
 <p style="text-align: left;">

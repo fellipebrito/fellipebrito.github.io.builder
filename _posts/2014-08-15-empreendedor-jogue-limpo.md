@@ -6,7 +6,7 @@ permalink: /empreendedor-jogue-limpo/
 categories:
   - Uncategorized
 ---
-[<img alt="1398259177" src="/img/posts/2014/08/1398259177-300x187.jpg" width="300" height="187" />][1]
+[<img alt="1398259177" src="/img/posts/2014/08/1398259177-300x187.jpg"  />][1]
 
 Se você anuncia que sua empresa possuí um plano de salários e evolução &#8220;pré-definida&#8221;, porque é requerido ao candidato informar a &#8220;pretensão salarial&#8221;.
 

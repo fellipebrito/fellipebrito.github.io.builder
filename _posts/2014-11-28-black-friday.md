@@ -6,7 +6,7 @@ permalink: /black-friday/
 categories:
   - Uncategorized
 ---
-[<img alt="consumismo" src="/img/posts/2014/11/consumismo-300x298.jpg" width="300" height="298" />][1]
+[<img alt="consumismo" src="/img/posts/2014/11/consumismo-300x298.jpg"  />][1]
 
 Promoções relampago, daquelas que voce precisa comprar agora ou nunca, tem o poder de despertar em nós essa necessidade incrível de comprar algo que não precisamos. É impressionante como cada oferta nova que eu vejo na internet ou na TV, gera em mim uma necessidade que eu nao sabia que existia. Aquela rack nova pra TV, o jogo de video game, a moto, o móvel, a louça&#8230; Somos a geração mais bombardeada por propagandas que já houve. Crianças sabem de cor os lançamentos tecnológicos, e a obsolescência programada fica evidente a cada novo festival de lançamentos de smartphones.
 

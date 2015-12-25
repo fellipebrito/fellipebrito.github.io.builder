@@ -6,7 +6,7 @@ permalink: /musica-gospel-e-pecado/
 categories:
   - Uncategorized
 ---
-<img alt="" src="http://noticias.gospelmais.com.br/files/2009/06/deus-e-pop.jpg" width="327" height="450" />
+<img alt="" src="http://noticias.gospelmais.com.br/files/2009/06/deus-e-pop.jpg"  />
 
 &nbsp;
 

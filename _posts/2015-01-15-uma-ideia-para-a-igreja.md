@@ -6,7 +6,7 @@ permalink: /uma-ideia-para-a-igreja/
 categories:
   - Uncategorized
 ---
-[<img alt="filei_478" src="/img/posts/2015/01/filei_478.jpg" width="400" height="400" />][1]
+[<img alt="filei_478" src="/img/posts/2015/01/filei_478.jpg"  />][1]
 
 Eu tenho uma idéia para as Igrejas que querem &#8220;combater o homossexualismo&#8221;.
 

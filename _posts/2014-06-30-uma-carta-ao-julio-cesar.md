@@ -6,7 +6,7 @@ permalink: /uma-carta-ao-julio-cesar/
 categories:
   - Uncategorized
 ---
-[<img alt="2131089_full-lnd" src="/img/posts/2014/06/2131089_full-lnd-300x168.jpg" width="300" height="168" />][1]
+[<img alt="2131089_full-lnd" src="/img/posts/2014/06/2131089_full-lnd-300x168.jpg"  />][1]
 
 Eu estou nervoso com essa copa como poucas vezes na vida fiquei. Na real, eu fiquei tão nervoso (somado a alguns problemas particulares) que tive uma crise de stress que me deixou de cama e a base de remédios, com dores horríveis, por uns bons dias.
 

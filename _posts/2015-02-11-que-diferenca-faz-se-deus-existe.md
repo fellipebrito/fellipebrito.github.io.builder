@@ -6,7 +6,7 @@ permalink: /que-diferenca-faz-se-deus-existe/
 categories:
   - apologetica
 ---
-#### [<img alt="Deus existe" src="/img/posts/2015/02/Deus-existe.jpg" width="440" height="300" />][1]
+#### [<img alt="Deus existe" src="/img/posts/2015/02/Deus-existe.jpg"  />][1]
 
 #### I. Se Deus não existe, então toda a vida humana bem como cada indivíduo será destruído.
 

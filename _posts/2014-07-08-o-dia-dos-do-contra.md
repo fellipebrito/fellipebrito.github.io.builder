@@ -6,7 +6,7 @@ permalink: /o-dia-dos-do-contra/
 categories:
   - Uncategorized
 ---
-[<img alt="brasil-chora" src="/img/posts/2014/07/brasil-chora-300x199.jpg" width="300" height="199" />][1]
+[<img alt="brasil-chora" src="/img/posts/2014/07/brasil-chora-300x199.jpg"  />][1]
 
 Bem, segundo os meus amigos analistas de futebol e política&#8230; este resultado significa que a Dilma e o PT vao perder as eleições, certo?!
 

@@ -6,7 +6,7 @@ permalink: /thanksgiving/
 categories:
   - Uncategorized
 ---
-[<img alt="10256495_800042343390840_2508863785232486101_n" src="/img/posts/2014/11/10256495_800042343390840_2508863785232486101_n-300x300.jpg" width="300" height="300" />][1]
+[<img alt="10256495_800042343390840_2508863785232486101_n" src="/img/posts/2014/11/10256495_800042343390840_2508863785232486101_n-300x300.jpg"  />][1]
 
 It is a great exercise to remember things that we are thankful. The prophet Jeremiah, in a time where things were not going well for Israel, said: ***I remember, and remembering, I keep a grip on hope**.* ****Here, he is talking about this exercise of remember good things, even facing some problem, some loss or trouble.
 

@@ -7,7 +7,7 @@ categories:
   - Coisas que eu acho que acho
   - Pensamentos
 ---
-[<img alt="f686a29c512b38f817edea2c45a9210a" src="/img/posts/2014/07/f686a29c512b38f817edea2c45a9210a-233x300.jpg" width="233" height="300" />][1]
+[<img alt="f686a29c512b38f817edea2c45a9210a" src="/img/posts/2014/07/f686a29c512b38f817edea2c45a9210a-233x300.jpg"  />][1]
 
 Uma das passagens mais famosas da Bíblia é a que se refere ao momento em que Jesus acalmou a tempestade.
 

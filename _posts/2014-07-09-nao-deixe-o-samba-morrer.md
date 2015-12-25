@@ -6,7 +6,7 @@ permalink: /nao-deixe-o-samba-morrer/
 categories:
   - Uncategorized
 ---
-[<img alt="BsHfhIdIQAAj1LB" src="/img/posts/2014/07/BsHfhIdIQAAj1LB-300x168.jpg" width="300" height="168" />][1]
+[<img alt="BsHfhIdIQAAj1LB" src="/img/posts/2014/07/BsHfhIdIQAAj1LB-300x168.jpg"  />][1]
 
 &nbsp;
 

@@ -6,7 +6,7 @@ permalink: /carpe-diem/
 categories:
   - Uncategorized
 ---
-[<img alt="carpe-diem" src="/img/posts/2014/05/carpe-diem-300x200.jpg" width="300" height="200" />][1]
+[<img alt="carpe-diem" src="/img/posts/2014/05/carpe-diem-300x200.jpg"  />][1]
 
 &#8220;Morar nos Estados Unidos é bom, mas é uma merda. Morar no Brasil é uma merda, mas é bom&#8221;. &#8211; Tom Jobim
 

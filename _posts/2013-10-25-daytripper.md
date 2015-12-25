@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 [  
-<img alt="daytripper-cover" src="/img/posts/2013/10/daytripper-cover.jpg" width="500" height="500" />][1]
+<img alt="daytripper-cover" src="/img/posts/2013/10/daytripper-cover.jpg"  />][1]
 
 Qual criança não deseja ser adulto? Qual adulto não deseja ser criança.
 

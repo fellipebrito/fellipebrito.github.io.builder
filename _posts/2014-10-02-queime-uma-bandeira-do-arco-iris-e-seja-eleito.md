@@ -6,7 +6,7 @@ permalink: /queime-uma-bandeira-do-arco-iris-e-seja-eleito/
 categories:
   - Uncategorized
 ---
-[<img alt="arcoiris" src="/img/posts/2014/10/arcoiris-300x300.jpg" width="300" height="300" />][1]
+[<img alt="arcoiris" src="/img/posts/2014/10/arcoiris-300x300.jpg"  />][1]
 
 Um casal de amigos começa um sopão, feito do próprio bolso pra alimentar os carrinheiros em Curitiba. Sabe quanto % de dinheiro eles ganham? Sabe quanta fama? Sabe quantos aplausos no meio cristão? Sim&#8230; quase nada&#8230;
 
