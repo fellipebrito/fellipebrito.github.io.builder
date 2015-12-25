@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <center>
-  <a href="/img/posts/2013/10/maxresdefault.jpg"><img class="alignnone size-large wp-image-105" alt="maxresdefault" src="/img/posts/2013/10/maxresdefault-1024x576.jpg" width="600" height="337" /></a>
+  <a href="/img/posts/2013/10/maxresdefault.jpg"><img alt="maxresdefault" src="/img/posts/2013/10/maxresdefault-1024x576.jpg" width="600" height="337" /></a>
 </center>Já tomei muita porrada por acreditar que o mundo era igual o que eu achava que ele era quando criança.
 
 Já tomei muita porrada por achar que aconteceria a justiça.

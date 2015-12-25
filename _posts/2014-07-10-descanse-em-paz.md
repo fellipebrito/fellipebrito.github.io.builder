@@ -6,7 +6,7 @@ permalink: /descanse-em-paz/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-206 aligncenter" alt="loniless1" src="/img/posts/2014/07/loniless1.jpg" width="458" height="303" />][1]
+[<img alt="loniless1" src="/img/posts/2014/07/loniless1.jpg" width="458" height="303" />][1]
 
 &nbsp;
 

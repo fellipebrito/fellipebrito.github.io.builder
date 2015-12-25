@@ -6,7 +6,7 @@ permalink: /os-amigos-virtuais-e-a-solidao/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-372 aligncenter" alt="tamagotchi4" src="/img/posts/2015/08/tamagotchi4.jpg" width="300" height="300" />][1]
+[<img alt="tamagotchi4" src="/img/posts/2015/08/tamagotchi4.jpg" width="300" height="300" />][1]
 
 &nbsp;
 

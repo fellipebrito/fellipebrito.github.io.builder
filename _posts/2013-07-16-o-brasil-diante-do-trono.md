@@ -6,7 +6,7 @@ permalink: /o-brasil-diante-do-trono/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-46 aligncenter" alt="546058-6294-it2" src="/img/posts/2013/07/546058-6294-it2-268x300.jpeg" width="268" height="300" />][1]
+[<img alt="546058-6294-it2" src="/img/posts/2013/07/546058-6294-it2-268x300.jpeg" width="268" height="300" />][1]
 
 &nbsp;
 

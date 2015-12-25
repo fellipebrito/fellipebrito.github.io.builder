@@ -6,7 +6,7 @@ permalink: /robin-ah-robin/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-242 aligncenter" alt="tumblr_luxczfdocB1qzxyqfo1_250" src="/img/posts/2014/08/tumblr_luxczfdocB1qzxyqfo1_250-225x300.jpg" width="225" height="300" />][1]
+[<img alt="tumblr_luxczfdocB1qzxyqfo1_250" src="/img/posts/2014/08/tumblr_luxczfdocB1qzxyqfo1_250-225x300.jpg" width="225" height="300" />][1]
 
 O pouco que parei pra pensar sobre a morte do R. Williams foi um mar de tristeza. Como pode alguém que faz do &#8220;humor&#8221; a sua vida acaba deprimido e enforcado?!
 

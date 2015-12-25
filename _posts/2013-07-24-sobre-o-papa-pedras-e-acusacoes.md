@@ -6,7 +6,7 @@ permalink: /sobre-o-papa-pedras-e-acusacoes/
 categories:
   - Uncategorized
 ---
-[<img class="alignnone size-full wp-image-51" alt="BP8otebCIAER3Z0" src="/img/posts/2013/07/BP8otebCIAER3Z0.jpg" width="800" height="557" />][1]
+[<img alt="BP8otebCIAER3Z0" src="/img/posts/2013/07/BP8otebCIAER3Z0.jpg" width="800" height="557" />][1]
 
 Um pastor evangélico, famoso na cidade onde eu morava, acaba de postar no twitter: *<span style="text-decoration: underline;">Pare de admirar o papa!!! Nada mudou, o papa continua um Pagão Idólatra!!!</span>*
 
@@ -112,7 +112,7 @@ Link e screenshots do tweet:
             </p>
             
             <p>
-              <img class="alignnone size-medium wp-image-52" style="font-size: 1em;" alt="Screen Shot 2013-07-24 at 8.56.53 AM" src="/img/posts/2013/07/Screen-Shot-2013-07-24-at-8.56.53-AM-300x169.png" width="300" height="169" />
+              <img alt="Screen Shot 2013-07-24 at 8.56.53 AM" src="/img/posts/2013/07/Screen-Shot-2013-07-24-at-8.56.53-AM-300x169.png" width="300" height="169" />
             </p>
 
  [1]: /img/posts/2013/07/BP8otebCIAER3Z0.jpg

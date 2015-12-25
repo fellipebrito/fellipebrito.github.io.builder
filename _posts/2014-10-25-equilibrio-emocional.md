@@ -6,7 +6,7 @@ permalink: /equilibrio-emocional/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-286 aligncenter" alt="viva" src="/img/posts/2014/10/viva-300x225.jpg" width="300" height="225" />][1]
+[<img alt="viva" src="/img/posts/2014/10/viva-300x225.jpg" width="300" height="225" />][1]
 
 *&#8220;A saudade as vezes é impossível de segurar, mas se escorre uma lágrima vem uma enchente.&#8221;*
 

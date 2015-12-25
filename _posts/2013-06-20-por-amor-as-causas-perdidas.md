@@ -9,7 +9,7 @@ categories:
 <center>
 </center>
 
-[<img class="size-medium wp-image-38 aligncenter" alt="1014091_460755444019455_1028295901_n" src="/img/posts/2013/06/1014091_460755444019455_1028295901_n-300x298.jpg" width="300" height="298" />][1]
+[<img alt="1014091_460755444019455_1028295901_n" src="/img/posts/2013/06/1014091_460755444019455_1028295901_n-300x298.jpg" width="300" height="298" />][1]
 
 &nbsp;
 

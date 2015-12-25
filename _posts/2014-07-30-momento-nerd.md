@@ -6,7 +6,7 @@ permalink: /momento-nerd/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-235 aligncenter" alt="minha vida é mais interessante dentro da minha cabeça" src="/img/posts/2014/07/minha-vida-é-mais-interessante-dentro-da-minha-cabeça.jpg" width="313" height="325" />][1]
+[<img alt="minha vida é mais interessante dentro da minha cabeça" src="/img/posts/2014/07/minha-vida-é-mais-interessante-dentro-da-minha-cabeça.jpg" width="313" height="325" />][1]
 
 Momento Nerd:
 

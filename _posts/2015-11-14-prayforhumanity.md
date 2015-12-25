@@ -9,7 +9,7 @@ categories:
 ---
 &nbsp;
 
-[<img class="wp-image-415 aligncenter" alt="heavenly-new-jerusalem" src="/img/posts/2015/11/heavenly-new-jerusalem.jpg" width="672" height="298" />][1]
+[<img alt="heavenly-new-jerusalem" src="/img/posts/2015/11/heavenly-new-jerusalem.jpg" width="672" height="298" />][1]
 
 O &#8220;louvor&#8221; de hoje é dos ***Arrais &#8211; Montreal***.
 

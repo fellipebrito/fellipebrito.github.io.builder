@@ -6,7 +6,7 @@ permalink: /eu-olhei-a-tristeza-nos-olhos-e-sorri/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-290 aligncenter" alt="eu-olhei" src="/img/posts/2014/11/eu-olhei-222x300.jpg" width="222" height="300" />][1]
+[<img alt="eu-olhei" src="/img/posts/2014/11/eu-olhei-222x300.jpg" width="222" height="300" />][1]
 
 **Eu olhei a tristeza nos olhos**  
 ** E eu sorri**  

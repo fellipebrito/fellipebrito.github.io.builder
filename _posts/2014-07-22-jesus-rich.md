@@ -6,7 +6,7 @@ permalink: /jesus-rich/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-223 aligncenter" alt="Christ.In_.A.Suit_" src="/img/posts/2014/07/Christ.In_.A.Suit_.jpg" width="370" height="370" />][1]
+[<img alt="Christ.In_.A.Suit_" src="/img/posts/2014/07/Christ.In_.A.Suit_.jpg" width="370" height="370" />][1]
 
 Quanto custa pra uma Igreja Evangélica alugar o Madison Square Garden, o Centro de Convenções da sua cidade ou algo assim para fazer uma conferência?
 
