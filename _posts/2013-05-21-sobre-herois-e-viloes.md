@@ -6,7 +6,7 @@ permalink: /sobre-herois-e-viloes/
 categories:
   - Uncategorized
 ---
-[<img alt="446-ac4a743594459c19d53ce2c8b1d52b44" src="/img/posts/2013/05/446-ac4a743594459c19d53ce2c8b1d52b44-225x300.jpg"  />][1]
+[<img alt="446-ac4a743594459c19d53ce2c8b1d52b44" src="/img/posts/2013/05/446-ac4a743594459c19d53ce2c8b1d52b4.jpg"  />][1]
 
 Desde a minha mudança para os EUA que eu pretendo voltar a escrever nesse blog. Não faltam assuntos que eu gostaria de compartilhar, mas falta tempo, silencio e principalmente uma conexão de internet boa na minha casa. Entretanto, conversando com minha esposa na ultima semana, eu consegui juntar algumas coisas na minha cabeça e queria conversar com vocês aqui.
 

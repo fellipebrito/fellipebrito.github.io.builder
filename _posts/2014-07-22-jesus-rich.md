@@ -14,7 +14,7 @@ Você imagina Jesus chegando de carro do ano, terno, gravata, gel no cabelo, iph
 
 E, aproximando-se dele um escriba, disse: Mestre, aonde quer que fores, eu te seguirei.
 
-E disse Jesus: As raposas têm covis, e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça. (Mateus 8.18-20)
+E disse Jesus: As raposas têm covis, e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça. (Mateus 8.1DELETE_IT_HERE0)
 
 &#8212;&#8211;
 

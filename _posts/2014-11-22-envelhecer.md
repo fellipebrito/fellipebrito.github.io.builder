@@ -6,7 +6,7 @@ permalink: /envelhecer/
 categories:
   - Uncategorized
 ---
-[<img alt="frases-sobre-a-saudade-8" src="/img/posts/2014/11/frases-sobre-a-saudade-8-300x247.jpg"  />][1]
+[<img alt="frases-sobre-a-saudade-8" src="/img/posts/2014/11/frases-sobre-a-saudade-.jpg"  />][1]
 
 Como nós dizemos tchau para o que tivémos?  
 Os bons tempos que nos fizeram rir sao muito maiores do que os maus.

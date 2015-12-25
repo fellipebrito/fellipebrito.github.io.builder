@@ -6,7 +6,7 @@ permalink: /quem-tem-promessa-nao-morre/
 categories:
   - Uncategorized
 ---
-[<img alt="abre--chamadas-batman-1351118926840_956x500" src="/img/posts/2014/07/abre-chamadas-batman-1351118926840_956x500-300x156.jpg"  />][1]
+[<img alt="abre--chamadas-batman-1351118926840_956x500" src="/img/posts/2014/07/abre-chamadas-batman-1351118926840_956x50.jpg"  />][1]
 
 *Quem tem promessa não morre!!! Repita: Eu não morrerei sem que tua promessa se cumpra em mim!!!* Assim se vendem milhares de CDs, enchem templos e pregam um Deus que mente, gerando milhares de pessoas desapontadas com um Deus que nunca prometeu o que elas julgam que ele não cumpriu.
 

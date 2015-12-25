@@ -6,7 +6,7 @@ permalink: /o-brasil-diante-do-trono/
 categories:
   - Uncategorized
 ---
-[<img alt="546058-6294-it2" src="/img/posts/2013/07/546058-6294-it2-268x300.jpeg"  />][1]
+[<img alt="546058-6294-it2" src="/img/posts/2013/07/546058-6294-it.jpeg"  />][1]
 
 &nbsp;
 
@@ -45,4 +45,4 @@ Agora se você vê isso na sua igreja, se sua igreja é palco de político, ou f
 
 **O Evangelho dos evangélicos me embrulha o estomago!**
 
- [1]: /img/posts/2013/07/546058-6294-it2.jpeg
+ [1]: /img/posts/2013/07/54605.jpeg

@@ -112,7 +112,7 @@ Link e screenshots do tweet:
             </p>
             
             <p>
-              <img alt="Screen Shot 2013-07-24 at 8.56.53 AM" src="/img/posts/2013/07/Screen-Shot-2013-07-24-at-8.56.53-AM-300x169.png"  />
+              <img alt="Screen Shot 2013-07-24 at 8.56.53 AM" src="/img/posts/2013/07/Screen-Shot-2013-0DELETE_IT_HERE4-at-8.56.53-AM-300x169.png"  />
             </p>
 
  [1]: /img/posts/2013/07/BP8otebCIAER3Z0.jpg

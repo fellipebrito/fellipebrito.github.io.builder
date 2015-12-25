@@ -6,7 +6,7 @@ permalink: /protestos-no-brasil/
 categories:
   - Uncategorized
 ---
-[<img alt="martin-luther-king21" src="/img/posts/2013/06/martin-luther-king21-300x259.jpg"  />][1]
+[<img alt="martin-luther-king21" src="/img/posts/2013/06/martin-luther-king2.jpg"  />][1]
 
 Todo mundo reclama que ninguém faz nada. Todo mundo reclama que não há o que fazer. Aí os caras partem pra cima, fazem passeata, organizam milhares de pessoas em cidades diferentes e vão pras ruas reclamar, e todo mundo critica.
 

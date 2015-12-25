@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="/img/posts/2014/07/Oportunidades-de-Negócios-Para-a-Copa-do-Mundo-00.jpg"><img alt="Oportunidades-de-Negócios-Para-a-Copa-do-Mundo-00" src="/img/posts/2014/07/Oportunidades-de-Negócios-Para-a-Copa-do-Mundo-00-300x171.jpg"  /></a>
+  <a href="/img/posts/2014/07/Oportunidades-de-Negócios-Para-a-Copa-do-Mundo-00.jpg"><img alt="Oportunidades-de-Negócios-Para-a-Copa-do-Mundo-00" src="/img/posts/2014/07/Oportunidades-de-Negócios-Para-a-Copa-do-Mundo-0.jpg"  /></a>
 </p>
 
 Todos os comentaristas da ESPN Deportes torcendo descaradamente para todos os times de língua espanhola, e muuuuito contra o Brasil.
