@@ -4,6 +4,8 @@ subtitle: A única maneira sã que eu encontro para conseguir encarar este mundo
 permalink: /prayforhumanity/
 layout: post
 header-img: "img/posts/2015/11/heavenly-new-jerusalem.jpg"
+header-img-width: 3405
+header-img-height: 2128
 ---
 O &#8220;louvor&#8221; de hoje é dos ***Arrais &#8211; Montreal***.
 
