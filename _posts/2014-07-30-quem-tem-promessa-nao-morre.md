@@ -6,7 +6,7 @@ permalink: /quem-tem-promessa-nao-morre/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-233 aligncenter" alt="abre--chamadas-batman-1351118926840_956x500" src="http://fellipebrito.com/wp-content/uploads/2014/07/abre-chamadas-batman-1351118926840_956x500-300x156.jpg" width="300" height="156" />][1]
+[<img alt="abre--chamadas-batman-1351118926840_956x500" src="/img/posts/2014/07/abre-chamadas-batman-1351118926840_956x50.jpg"  />][1]
 
 *Quem tem promessa não morre!!! Repita: Eu não morrerei sem que tua promessa se cumpra em mim!!!* Assim se vendem milhares de CDs, enchem templos e pregam um Deus que mente, gerando milhares de pessoas desapontadas com um Deus que nunca prometeu o que elas julgam que ele não cumpriu.
 
@@ -16,4 +16,4 @@ Hebreus 11 tem a lista de heróis da fé que foram verdadeiros exemplos de fidel
 
 Querido amigo, pare de recitar música gospel de má qualidade como se fosse a bíblia. Vá ouvir U2 e ler a bíblia que você ganha mais.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/07/abre-chamadas-batman-1351118926840_956x500.jpg
+ [1]: /img/posts/2014/07/abre-chamadas-batman-1351118926840_956x500.jpg

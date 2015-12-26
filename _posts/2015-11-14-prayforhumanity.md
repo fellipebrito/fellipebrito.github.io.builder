@@ -9,7 +9,7 @@ categories:
 ---
 &nbsp;
 
-[<img class="wp-image-415 aligncenter" alt="heavenly-new-jerusalem" src="http://fellipebrito.com/wp-content/uploads/2015/11/heavenly-new-jerusalem.jpg" width="672" height="298" />][1]
+[<img alt="heavenly-new-jerusalem" src="/img/posts/2015/11/heavenly-new-jerusalem.jpg"  />][1]
 
 O &#8220;louvor&#8221; de hoje é dos ***Arrais &#8211; Montreal***.
 
@@ -30,4 +30,4 @@ e as memórias desta vida vou plantar e as regar com recomeços.
 Fecho os olhos e encho o peito do ar de um monte  
 Onde rico e pobre comerão da mesa do rei
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/11/heavenly-new-jerusalem.jpg
+ [1]: /img/posts/2015/11/heavenly-new-jerusalem.jpg

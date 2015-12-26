@@ -7,11 +7,11 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="http://fellipebrito.com/wp-content/uploads/2013/09/rush_movie-wide.jpg"><img class=" wp-image-60 aligncenter" alt="rush_movie-wide" src="http://fellipebrito.com/wp-content/uploads/2013/09/rush_movie-wide.jpg" width="691" height="432" /></a>
+  <img alt="rush_movie-wide" src="/img/posts/2013/09/rush_movie-wide.jpg"  />
 </p>
 
 <p style="text-align: center;">
-  <em>Everyone&#8217;s driven by something.</em>
+  <em>Everyone`s driven by something.</em>
 </p>
 
 O sol se põe, e volta a brilhar. Sempre assim, pra todos os humanos que já passaram por essa terra.

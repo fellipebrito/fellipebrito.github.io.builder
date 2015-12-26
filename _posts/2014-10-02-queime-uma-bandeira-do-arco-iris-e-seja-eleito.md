@@ -6,7 +6,7 @@ permalink: /queime-uma-bandeira-do-arco-iris-e-seja-eleito/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-279 aligncenter" alt="arcoiris" src="http://fellipebrito.com/wp-content/uploads/2014/10/arcoiris-300x300.jpg" width="300" height="300" />][1]
+[<img alt="arcoiris" src="/img/posts/2014/10/arcoiris-300x300.jpg"  />][1]
 
 Um casal de amigos começa um sopão, feito do próprio bolso pra alimentar os carrinheiros em Curitiba. Sabe quanto % de dinheiro eles ganham? Sabe quanta fama? Sabe quantos aplausos no meio cristão? Sim&#8230; quase nada&#8230;
 
@@ -30,4 +30,4 @@ Que sejamos movidos pelo amor, que sejamos sinais da graça de Deus, que sejamos
 
 Que o Deus de amor e graça nos perdoe a todos, e nos livre do mal.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/10/arcoiris.jpg
+ [1]: /img/posts/2014/10/arcoiris.jpg

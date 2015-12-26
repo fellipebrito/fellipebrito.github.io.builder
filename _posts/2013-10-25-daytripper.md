@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 [  
-<img class="aligncenter" alt="daytripper-cover" src="http://fellipebrito.com/wp-content/uploads/2013/10/daytripper-cover.jpg" width="500" height="500" />][1]
+<img alt="daytripper-cover" src="/img/posts/2013/10/daytripper-cover.jpg"  />][1]
 
 Qual criança não deseja ser adulto? Qual adulto não deseja ser criança.
 
@@ -55,4 +55,4 @@ Compre aqui: http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?isbn
 Compre em Inglês aqui: http://www.amazon.com/gp/product/1401229697[  
 ][1]
 
- [1]: http://fellipebrito.com/wp-content/uploads/2013/10/daytripper-cover.jpg
+ [1]: /img/posts/2013/10/daytripper-cover.jpg

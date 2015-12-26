@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <div>
-  <a href="http://fellipebrito.com/wp-content/uploads/2014/12/jesus_talking_to_the_dc_heroes_by_tsart-d58o58v.jpg"><img class="size-medium wp-image-324 aligncenter" alt="jesus_talking_to_the_dc_heroes_by_tsart-d58o58v" src="http://fellipebrito.com/wp-content/uploads/2014/12/jesus_talking_to_the_dc_heroes_by_tsart-d58o58v-300x231.jpg" width="300" height="231" /></a>
+  <a href="/img/posts/2014/12/jesus_talking_to_the_dc_heroes_by_tsart-d58o58v.jpg"><img alt="jesus_talking_to_the_dc_heroes_by_tsart-d58o58v" src="/img/posts/2014/12/jesus_talking_to_the_dc_heroes_by_tsart-d58o58v-300x231.jpg"  /></a>
 </div>
 
 <div>

@@ -6,7 +6,7 @@ permalink: /cs-lewis-e-o-ecumenismo/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-56 aligncenter" alt="ecumenismo" src="http://fellipebrito.com/wp-content/uploads/2013/08/ecumenismo.jpg" width="425" height="282" />][1]
+[<img alt="ecumenismo" src="/img/posts/2013/08/ecumenismo.jpg"  />][1]
 
 O **cristianismo** &#8220;<span style="text-decoration: underline;"><em>puro e simples</em></span>&#8221; é como um **saguão de entrada** que se comunica com as diversas peças da casa.
 
@@ -34,4 +34,4 @@ Em linguagem clara, **a pergunta a ser feita não deve** ser: &#8220;*Será que 
 
 Trecho da introdução do livro: **Cristianismo Puro e Simples**
 
- [1]: http://fellipebrito.com/wp-content/uploads/2013/08/ecumenismo.jpg
+ [1]: /img/posts/2013/08/ecumenismo.jpg

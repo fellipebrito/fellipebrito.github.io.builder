@@ -6,7 +6,7 @@ permalink: /sobre-o-papa-pedras-e-acusacoes/
 categories:
   - Uncategorized
 ---
-[<img class="alignnone size-full wp-image-51" alt="BP8otebCIAER3Z0" src="http://fellipebrito.com/wp-content/uploads/2013/07/BP8otebCIAER3Z0.jpg" width="800" height="557" />][1]
+[<img alt="BP8otebCIAER3Z0" src="/img/posts/2013/07/BP8otebCIAER3Z0.jpg"  />][1]
 
 Um pastor evangélico, famoso na cidade onde eu morava, acaba de postar no twitter: *<span style="text-decoration: underline;">Pare de admirar o papa!!! Nada mudou, o papa continua um Pagão Idólatra!!!</span>*
 
@@ -66,7 +66,7 @@ Que Deus nos ilumine e tenha misericórdia de nós.
 Link e screenshots do tweet:
 
 <div class="media-attachment oembed">
-  <blockquote class="twitter-tweet" width="550">
+  <blockquote class="twitter-tweet" >
     <p>
       Os Evangélicos que estão admirando o Papa, tem certeza disso? Olhem isso. Nada mudou, ainda é um idolatra, pagão. <a href="http://t.co/helCzWnAKo">pic.twitter.com/helCzWnAKo</a>
     </p>
@@ -80,7 +80,7 @@ Link e screenshots do tweet:
     </div> 
     
     <div class="media-attachment oembed">
-      <blockquote class="twitter-tweet" width="550">
+      <blockquote class="twitter-tweet" >
         <p>
           Com isso, vejo como temos trabalho nessa nação que ainda 60% é idolatra e pagã, temos que voltar a pregar contra idolatria e paganismo.
         </p>
@@ -94,7 +94,7 @@ Link e screenshots do tweet:
         </div> 
         
         <div class="media-attachment oembed">
-          <blockquote class="twitter-tweet" width="550">
+          <blockquote class="twitter-tweet" >
             <p>
               Nossas igrejas cresceram tanto, q nos esquecemos como esse pais precisa do evangelho verdadeiro de Cristo Jesus, eu assisto isso e choro.
             </p>
@@ -112,7 +112,7 @@ Link e screenshots do tweet:
             </p>
             
             <p>
-              <img class="alignnone size-medium wp-image-52" style="font-size: 1em;" alt="Screen Shot 2013-07-24 at 8.56.53 AM" src="http://fellipebrito.com/wp-content/uploads/2013/07/Screen-Shot-2013-07-24-at-8.56.53-AM-300x169.png" width="300" height="169" />
+              <img alt="Screen Shot 2013-07-24 at 8.56.53 AM" src="/img/posts/2013/07/Screen-Shot-2013-0DELETE_IT_HERE4-at-8.56.53-AM-300x169.png"  />
             </p>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2013/07/BP8otebCIAER3Z0.jpg
+ [1]: /img/posts/2013/07/BP8otebCIAER3Z0.jpg

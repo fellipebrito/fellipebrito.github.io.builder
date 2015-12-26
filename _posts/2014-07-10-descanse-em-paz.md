@@ -6,7 +6,7 @@ permalink: /descanse-em-paz/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-206 aligncenter" alt="loniless1" src="http://fellipebrito.com/wp-content/uploads/2014/07/loniless1.jpg" width="458" height="303" />][1]
+[<img alt="loniless1" src="/img/posts/2014/07/loniless1.jpg"  />][1]
 
 &nbsp;
 
@@ -42,4 +42,4 @@ A TV dava enfase a cada corrida, o país parava, a musiquinha todos sabemos de c
   </p>
 </div>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/07/loniless1.jpg
+ [1]: /img/posts/2014/07/loniless1.jpg

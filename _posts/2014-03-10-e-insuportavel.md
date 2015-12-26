@@ -6,7 +6,7 @@ permalink: /e-insuportavel/
 categories:
   - Uncategorized
 ---
-<img class="aligncenter" alt="" src="http://ccbratislava.files.wordpress.com/2012/02/dare_to_be_different_one_goldfish_swimming_the_other_way.jpg" width="1024" height="768" />
+<img alt="" src="http://ccbratislava.files.wordpress.com/2012/02/dare_to_be_different_one_goldfish_swimming_the_other_way.jpg"  />
 
 Fico feliz de não ser o único. Me entristece, claro, eu ser um &#8216;ponto tão fora da curva&#8217; &#8211; este normalmente é um caminho muito solitário.
 

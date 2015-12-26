@@ -6,7 +6,7 @@ permalink: /voce-nao-esta-sozinho/
 categories:
   - Uncategorized
 ---
-[<img class="wp-image-227 aligncenter" alt="prayer" src="http://fellipebrito.com/wp-content/uploads/2014/07/prayer.jpg" width="600" />][1]
+[<img alt="prayer" src="/img/posts/2014/07/prayer.jpg"  />][1]
 
 Sempre que eu tenho uma dúvida, uma questão ou uma dificuldade, eu sinto minha fé posta a prova. No que eu realmente creio? Porque eu creio? Qual o propósito para o qual estamos aqui? Como isso vai terminar?
 
@@ -32,4 +32,4 @@ Pedro termina sua carta com a seguinte mensagem: &#8220;*Tenham uma mente tranqu
 
 &nbsp;
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/07/prayer.jpg
+ [1]: /img/posts/2014/07/prayer.jpg

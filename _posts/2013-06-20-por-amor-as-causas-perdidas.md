@@ -9,7 +9,7 @@ categories:
 <center>
 </center>
 
-[<img class="size-medium wp-image-38 aligncenter" alt="1014091_460755444019455_1028295901_n" src="http://fellipebrito.com/wp-content/uploads/2013/06/1014091_460755444019455_1028295901_n-300x298.jpg" width="300" height="298" />][1]
+[<img alt="1014091_460755444019455_1028295901_n" src="/img/posts/2013/06/1014091_460755444019455_1028295901_n-300x298.jpg"  />][1]
 
 &nbsp;
 
@@ -86,4 +86,4 @@ Se vocês quiserem, E ME OBEDECEREM, terão sucesso ainda nessa vida!
 &#8212;&#8212;-  
 Como escreveu CS Lewis: Eu pensava que seguíamos caminhos já feitos, mas parece que não os há. O nosso IR faz o caminho!
 
- [1]: http://fellipebrito.com/wp-content/uploads/2013/06/1014091_460755444019455_1028295901_n.jpg
+ [1]: /img/posts/2013/06/1014091_460755444019455_1028295901_n.jpg

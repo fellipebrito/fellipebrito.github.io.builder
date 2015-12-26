@@ -6,7 +6,7 @@ permalink: /somos-todos-macacos/
 categories:
   - Uncategorized
 ---
-<img class="aligncenter" alt="" src="http://1.bp.blogspot.com/-uvOiZLSo7Xw/TZYXhy5F9tI/AAAAAAAAE8A/Uzy0x_Klk6g/s1600/WEARE.jpg" width="50%" height="50%" />
+<img alt="" src="http://1.bp.blogspot.com/-uvOiZLSo7Xw/TZYXhy5F9tI/AAAAAAAAE8A/Uzy0x_Klk6g/s1600/WEARE.jpg"  />
 
 Se você é discriminado por ser alcoolatra, sou alcoolatra com você;  
 Se você é discriminado por ser pobre, sou pobre com você;  

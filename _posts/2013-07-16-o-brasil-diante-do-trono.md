@@ -6,7 +6,7 @@ permalink: /o-brasil-diante-do-trono/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-46 aligncenter" alt="546058-6294-it2" src="http://fellipebrito.com/wp-content/uploads/2013/07/546058-6294-it2-268x300.jpeg" width="268" height="300" />][1]
+[<img alt="546058-6294-it2" src="/img/posts/2013/07/546058-6294-it.jpeg"  />][1]
 
 &nbsp;
 
@@ -45,4 +45,4 @@ Agora se você vê isso na sua igreja, se sua igreja é palco de político, ou f
 
 **O Evangelho dos evangélicos me embrulha o estomago!**
 
- [1]: http://fellipebrito.com/wp-content/uploads/2013/07/546058-6294-it2.jpeg
+ [1]: /img/posts/2013/07/54605.jpeg

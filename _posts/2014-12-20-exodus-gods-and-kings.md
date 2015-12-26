@@ -6,7 +6,7 @@ permalink: /exodus-gods-and-kings/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-308 aligncenter" alt="exodus_gods_and_kings_movie-wide" src="http://fellipebrito.com/wp-content/uploads/2014/12/exodus_gods_and_kings_movie-wide-300x187.jpg" width="300" height="187" />][1]
+[<img alt="exodus_gods_and_kings_movie-wide" src="/img/posts/2014/12/exodus_gods_and_kings_movie-wide-300x187.jpg"  />][1]
 
 Meus primeiros contatos com histórias bíblicas se deram ainda em casa quando meus avós gastavam sua lábia e criatividade para me ensinar as histórias do livro que fundamenta a fé cristã. Ainda na minha infância tive acesso a algumas histórinhas desenhadas a mão. Tentativas esforçadas, mas pífias na qualidade, de me mostrar o Mar Vermelho aberto, o gigante Golias, os músculos de Sansão e o menino Davi com seu &#8216;estilingue&#8217;. Assim foi a minha infância.
 
@@ -30,4 +30,4 @@ PS1: *Sobre o mimimi que virá (e muito muito forte, pode apostar) de &#8220;ahh
 
 PS2: Se você quiser uma crítica cinematógráfica melhor, aconselho o post do tecmundo: <a href="http://www.tecmundo.com.br/cinema/69520-assistimos-filme-exodo-deuses-reis.htm" target="_blank">http://www.tecmundo.com.br/cinema/69520-assistimos-filme-exodo-deuses-reis.htm</a>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/12/exodus_gods_and_kings_movie-wide.jpg
+ [1]: /img/posts/2014/12/exodus_gods_and_kings_movie-wide.jpg

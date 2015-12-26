@@ -6,7 +6,7 @@ permalink: /a-maldicao-da-religiao/
 categories:
   - Uncategorized
 ---
-[<img class="size-large wp-image-334 aligncenter" alt="imagine-finished-1" src="http://fellipebrito.com/wp-content/uploads/2015/01/imagine-finished-1-1024x768.jpg" width="600" height="450" />][1]
+[<img alt="imagine-finished-1" src="/img/posts/2015/01/imagine-finished-.jpg"  />][1]
 
 Hoje vemos em todos os canais e revistas a religião sendo religião, à moda antiga. Tentam cunhar que religião é amor, no entanto anos de leitura de passagens sangrentas na bíblia, alcoorão ou torá nos faz refletir que não é bem assim. Os mandamentos divinos influenciam seus devotos, que desejam seguir a risca o que se prega, e é o que aparentemente se vê no video. Na bíblia dois ursos matam 42 duas crianças por terem feito piada de um profeta de Deus. No Alcoorão a dica é matar os que são de outra religião, e caso se arrependa é só dar uma rezadinha e pagar o dízimo.
 
@@ -38,4 +38,4 @@ Imagine todas as pessoas vivendo em paz!
 
 É, pode parecer que eu sou um sonhador, mas eu realmente gostaria de ver você se juntar a esse grupo de sonhadores&#8230; assim seríamos mais, e seríamos menos&#8230; seríamos UM!
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/01/imagine-finished-1.jpg
+ [1]: /img/posts/2015/01/imagine-finished-1.jpg

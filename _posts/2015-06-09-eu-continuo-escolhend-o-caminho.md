@@ -6,13 +6,13 @@ permalink: /eu-continuo-escolhend-o-caminho/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-359 aligncenter" alt="11137614_973717679306037_115024636_n" src="http://fellipebrito.com/wp-content/uploads/2015/06/11137614_973717679306037_115024636_n.jpg" width="320" height="320" />][1]
+[<img alt="11137614_973717679306037_115024636_n" src="/img/posts/2015/06/11137614_973717679306037_115024636_n.jpg"  />][1]
 
 Há mais de 2 anos eu escrevi sobre tudo isso que está acontecendo hoje.
 
 A falta de respeito é de ambos os lados, só que apenas um lado tem como &#8220;mandamento&#8221; amar o próximo como a si mesmo. (Mateus 22:39) A falta de cuidado é de ambos os lados, mas só um lado teve em seu fundador alguém que preferiu morrer sem se defender do que aceitar a ajuda da espada de um discipulo. (Joao 18:10)
 
-Você quer saber o que é &#8220;ofender&#8221; o filho de Deus? É prender ele na caldada da noite(Mateus 26:47-56), surrá-lo ( Lucas 22:54 ) contratar falsas testemunhas e condená-lo num julgamento forjado (Mateus 27:11), bater e cuspir nele, e depois prendê-lo semi nu em uma cruz até a morte. Isso é ofensa sim. E sabe qual foi a resposta dele?
+Você quer saber o que é &#8220;ofender&#8221; o filho de Deus? É prender ele na caldada da noite(Mateus 26:4.jado (Mateus 27:11), bater e cuspir nele, e depois prendê-lo semi nu em uma cruz até a morte. Isso é ofensa sim. E sabe qual foi a resposta dele?
 
 &#8220;Perdoa, eles não sabem o que fazem&#8221;. (Lucas 23:34)
 
@@ -31,4 +31,4 @@ Estamos todos sobre o mesmo chão. A maioria aponta cercas e muros… EU escolho
 
 <a href="http://fellipebrito.com/eu-escolho-o-caminho/" target="_blank">http://fellipebrito.com/eu-escolho-o-caminho/</a>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/06/11137614_973717679306037_115024636_n.jpg
+ [1]: /img/posts/2015/06/11137614_973717679306037_115024636_n.jpg

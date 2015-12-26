@@ -6,7 +6,7 @@ permalink: /uma-ideia-para-a-igreja/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-338 aligncenter" alt="filei_478" src="http://fellipebrito.com/wp-content/uploads/2015/01/filei_478.jpg" width="400" height="400" />][1]
+[<img alt="filei_478" src="/img/posts/2015/01/filei_478.jpg"  />][1]
 
 Eu tenho uma idéia para as Igrejas que querem &#8220;combater o homossexualismo&#8221;.
 
@@ -20,4 +20,4 @@ Quem sabe assim, quando pudermos oferecer algo mais interessante, a gente nem pr
 
 A minha idéia, é só uma cópia da idéia do mestre que disse: Antes de você olhar para o respingo de tomate na camiseta do seu amigo você deve olhar para essa sua roupa toda enlameada de pecado.
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/01/filei_478.jpg
+ [1]: /img/posts/2015/01/filei_478.jpg

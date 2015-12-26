@@ -6,7 +6,7 @@ permalink: /momento-nerd/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-235 aligncenter" alt="minha vida é mais interessante dentro da minha cabeça" src="http://fellipebrito.com/wp-content/uploads/2014/07/minha-vida-é-mais-interessante-dentro-da-minha-cabeça.jpg" width="313" height="325" />][1]
+[<img alt="minha vida é mais interessante dentro da minha cabeça" src="/img/posts/2014/07/minha-vida-é-mais-interessante-dentro-da-minha-cabeça.jpg"  />][1]
 
 Momento Nerd:
 
@@ -35,4 +35,4 @@ Um ser humano vive em média 80 anos, mais ou menos 960 meses.
   </p>
 </div>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/07/minha-vida-é-mais-interessante-dentro-da-minha-cabeça.jpg
+ [1]: /img/posts/2014/07/minha-vida-é-mais-interessante-dentro-da-minha-cabeça.jpg

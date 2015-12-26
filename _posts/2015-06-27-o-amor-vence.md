@@ -6,7 +6,7 @@ permalink: /o-amor-vence/
 categories:
   - Uncategorized
 ---
-[<img class="size-full wp-image-359 aligncenter" alt="11137614_973717679306037_115024636_n" src="http://fellipebrito.com/wp-content/uploads/2015/06/11137614_973717679306037_115024636_n.jpg" width="320" height="320" />][1]
+[<img alt="11137614_973717679306037_115024636_n" src="/img/posts/2015/06/11137614_973717679306037_115024636_n.jpg"  />][1]
 
 O capítulo quinze do evangelho de lucas começa assim: *Muitos pecadores e corruptos vinham ouvir Jesus. Os crentes, que se achavam os bons, criticavam dizendo: “Olha lá! Ele anda com gente pecadora! Belo testemunho heim!”*
 
@@ -63,4 +63,4 @@ Não importa em qual personagem da parábola nós nos encaixamos, se como o filh
   <strong>Sejam nossas atitudes segundo a cartilha ou completamente erradas, O amor do pai e do real filho mais velho nos abre a porta para voltarmos pra casa.</strong>
 </p>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/06/11137614_973717679306037_115024636_n.jpg
+ [1]: /img/posts/2015/06/11137614_973717679306037_115024636_n.jpg

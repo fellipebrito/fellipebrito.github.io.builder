@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" alt="" src="http://www.3dogshostelsaopaulo.com/wp-content/uploads/2011/10/logo_copa_brasil_2014.jpg" width="324" height="368" />
+  <img alt="" src="http://www.3dogshostelsaopaulo.com/wp-content/uploads/2011/10/logo_copa_brasil_2014.jpg"  />
 </p>
 
 Se você não odiar a Copa, não virar as costas pra ela, meu caro… é um alienado político! Um brasileirinho acomodado que aceita tudo isso.

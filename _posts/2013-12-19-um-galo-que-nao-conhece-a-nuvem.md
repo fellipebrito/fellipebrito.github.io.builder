@@ -10,7 +10,7 @@ categories:
   - nuvem
   - tech
 ---
-<img class="aligncenter" alt="" src="http://www.cloudways.com/blog/wp-content/uploads/ccomputing.jpg" width="580" height="460" />
+<img alt="" src="http://www.cloudways.com/blog/wp-content/uploads/ccomputing.jpg"  />
 
 Não há muito o que se comentar sobre o pifío resultado do Atlético Mineiro, na partida desta quarta feira no Marrocos, que já não tenha sido falado.
 

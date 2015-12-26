@@ -6,7 +6,7 @@ permalink: /como-sao-os-valores-de-uma-familia-sem-deus/
 categories:
   - Uncategorized
 ---
-[<img class="wp-image-347 aligncenter" alt="familia-sem-religiao-838x559" src="http://fellipebrito.com/wp-content/uploads/2015/02/familia-sem-religiao-838x559.jpg" width="503" height="335" />][1]
+[<img alt="familia-sem-religiao-838x559" src="/img/posts/2015/02/familia-sem-religiao-838x559.jpg"  />][1]
 
 &nbsp;
 
@@ -52,4 +52,4 @@ Alguns comentários sobre o artigo acima (vale a pena a leitura do artigo).
   </p>
 </div>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2015/02/familia-sem-religiao-838x559.jpg
+ [1]: /img/posts/2015/02/familia-sem-religiao-838x559.jpg

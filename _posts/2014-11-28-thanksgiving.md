@@ -6,7 +6,7 @@ permalink: /thanksgiving/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter" alt="10256495_800042343390840_2508863785232486101_n" src="http://fellipebrito.com/wp-content/uploads/2014/11/10256495_800042343390840_2508863785232486101_n-300x300.jpg" width="300" height="300" />][1]
+[<img alt="10256495_800042343390840_2508863785232486101_n" src="/img/posts/2014/11/10256495_800042343390840_2508863785232486101_n-300x300.jpg"  />][1]
 
 It is a great exercise to remember things that we are thankful. The prophet Jeremiah, in a time where things were not going well for Israel, said: ***I remember, and remembering, I keep a grip on hope**.* ****Here, he is talking about this exercise of remember good things, even facing some problem, some loss or trouble.
 
@@ -28,4 +28,4 @@ As well said in one of the Hymns I most like from my childhood:
   <em>Are you ever burdened with a load of care? Does the cross seem heavy you are called to bear<br /> </em><em>When upon life’s billows you are tempest-tossed, When you are discouraged, thinking all is lost,<br /> </em><em>So, amid the conflict whether great or small, Do not be discouraged, God is over all;<br /> </em><em>Count your many blessings, angels will attend and it will surprise you what the Lord hath done.&#8221;</em>
 </p>
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/11/10256495_800042343390840_2508863785232486101_n.jpg
+ [1]: /img/posts/2014/11/10256495_800042343390840_2508863785232486101_n.jpg

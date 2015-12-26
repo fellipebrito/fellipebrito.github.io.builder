@@ -6,7 +6,7 @@ permalink: /equilibrio-emocional/
 categories:
   - Uncategorized
 ---
-[<img class="size-medium wp-image-286 aligncenter" alt="viva" src="http://fellipebrito.com/wp-content/uploads/2014/10/viva-300x225.jpg" width="300" height="225" />][1]
+[<img alt="viva" src="/img/posts/2014/10/viva-300x225.jpg"  />][1]
 
 *&#8220;A saudade as vezes é impossível de segurar, mas se escorre uma lágrima vem uma enchente.&#8221;*
 
@@ -42,4 +42,4 @@ Hoje quero recuperar um pouco daquele Fellipe que ficou pra trás. Que comemorav
 
 **Um salve a uma vida equilibradamente desequilibrada.**
 
- [1]: http://fellipebrito.com/wp-content/uploads/2014/10/viva.jpg
+ [1]: /img/posts/2014/10/viva.jpg
