@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Christ follower, Husband, Nerd, Surfer,<br /> Entrepreneur and Software Writer"
+description: "Seguidor de Cristo, Marido, Nerd, Surfista<br />Empreendedor e Escritor de Software"
 ---
 
 {% for post in paginator.posts %}
@@ -14,7 +14,7 @@ description: "Christ follower, Husband, Nerd, Surfer,<br /> Entrepreneur and Sof
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Postado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} em {{ post.date | date: "%-d/%m/%Y" }}</p>
 </div>
 <hr>
 {% endfor %}
@@ -24,12 +24,12 @@ description: "Christ follower, Husband, Nerd, Surfer,<br /> Entrepreneur and Sof
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Artigos Recentes</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Artigos Antigos &rarr;</a>
     </li>
     {% endif %}
 </ul>
