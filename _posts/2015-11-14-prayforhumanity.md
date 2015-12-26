@@ -3,9 +3,8 @@ title: '#prayForHumanity'
 subtitle: A única maneira sã que eu encontro para conseguir encarar este mundo é a esperança de que há algo mais.
 permalink: /prayforhumanity/
 layout: post
+header-img: "img/posts/2015/11/heavenly-new-jerusalem.jpg"
 ---
-![Paraiso](/img/posts/2015/11/heavenly-new-jerusalem.jpg)
-
 O &#8220;louvor&#8221; de hoje é dos ***Arrais &#8211; Montreal***.
 
 O ISIS fez novas vítimas na cidade luz. Um dia antes, porém, o mesmo grupo matou mais de 40 pessoas e feriu outras 200 em um atentado em Beirut. Em breve serão as famílias iraquianas e sírias que terão suas vidas destroçadas com o contra-ataque que virá &#8211; ele sempre vem -, das forças militares internacionais.
