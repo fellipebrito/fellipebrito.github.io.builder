@@ -1,10 +1,8 @@
 ---
 title: Happy 4th July
-author: fellipe
-layout: post
 permalink: /happy-4th-july/
-categories:
-  - Uncategorized
+layout: post
+subtitle: I really think it might be hard to understand what it means the 4th of July if you had never experienced the lack of freedom.
 ---
 [<img alt="Usa-Flag-Hd-Wallpaper-3108x2368" src="/img/posts/2015/07/Usa-Flag-Hd-Wallpaper-3108x236.jpg"  />][1]
 

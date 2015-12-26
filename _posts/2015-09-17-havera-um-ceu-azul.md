@@ -1,10 +1,8 @@
 ---
 title: Haverá um céu azul
-author: fellipe
-layout: post
 permalink: /havera-um-ceu-azul/
-categories:
-  - Uncategorized
+subtitle: O louvor de hoje é do Djavan - Um amor Puro
+layout: post
 ---
 <p style="text-align: center;">
   <a href="/img/posts/2015/09/after-the-storm-gary-smith.jpg"><img alt="after-the-storm-gary-smith" src="/img/posts/2015/09/after-the-storm-gary-smith.jpg"  /></a>

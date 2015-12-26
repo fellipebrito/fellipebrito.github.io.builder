@@ -1,15 +1,10 @@
 ---
 title: '#prayForHumanity'
 subtitle: A única maneira sã que eu encontro para conseguir encarar este mundo é a esperança de que há algo mais.
-author: fellipe
 permalink: /prayforhumanity/
-short: O ISIS fez novas vítimas na cidade luz. Um dia antes, porém, o mesmo grupo matou mais de 40 pessoas e feriu outras 200 em um atentado em Beirut. Em breve serão as famílias iraquianas e sírias que terão suas vidas destroçadas com o contra-ataque que virá - ele sempre vem -, das forças militares internacionais...
-categories:
-  - Uncategorized
+layout: post
 ---
-&nbsp;
-
-[<img alt="heavenly-new-jerusalem" src="/img/posts/2015/11/heavenly-new-jerusalem.jpg"  />][1]
+![Paraiso](/img/posts/2015/11/heavenly-new-jerusalem.jpg)
 
 O &#8220;louvor&#8221; de hoje é dos ***Arrais &#8211; Montreal***.
 
@@ -30,4 +25,4 @@ e as memórias desta vida vou plantar e as regar com recomeços.
 Fecho os olhos e encho o peito do ar de um monte
 Onde rico e pobre comerão da mesa do rei
 
-{% include youtubePlayer.html id="KWN0HX2Ls3Y" %}
+{% include youtubePlayer.html id="q4Wn6mIZ0BY" %}

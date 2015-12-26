@@ -1,12 +1,10 @@
 ---
 title: Me leve de volta ao lugar que eu amo
-author: fellipe
-layout: post
 permalink: /me-leve-de-volta-ao-lugar-que-eu-amo/
-categories:
-  - Uncategorized
+subtitle: O louvor de hoje é do Red Hot Chili Peppers - Under the Bridge.
+layout: post
 ---
-[<img alt="3f583341525e185f030f121000b793ed" src="/img/posts/2015/09/3f583341525e185f030f121000b793ed.jpg"  />][1]
+<img alt="3f583341525e185f030f121000b793ed" src="/img/posts/2015/09/3f583341525e185f030f121000b793ed.jpg"  />
 
 <p style="text-align: left;">
   O &#8220;louvor&#8221; de hoje é do <strong><em>Red Hot Chili Peppers &#8211; Under the Bridge</em></strong>.
@@ -28,4 +26,3 @@ Pelo menos eu tenho o seu amor.
 ***Me leve de volta ao lugar que eu amo, me guie por todo o caminho!***
 
 {% include youtubePlayer.html id="GLvohMXgcBo" %}
-

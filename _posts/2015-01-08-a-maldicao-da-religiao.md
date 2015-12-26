@@ -1,10 +1,8 @@
 ---
 title: A maldição da religião.
-author: fellipe
-layout: post
 permalink: /a-maldicao-da-religiao/
-categories:
-  - Uncategorized
+layout: post
+subtitle: Hoje vemos em todos os canais e revistas a religião sendo religião, à moda antiga. Tentam cunhar que religião é amor, no entanto anos de leitura de passagens sangrentas na bíblia, alcoorão ou torá nos faz refletir que não é bem assim. Os mandamentos divinos influenciam seus devotos, que desejam seguir a risca o que se prega, e é o que aparentemente se vê no video. Na bíblia dois ursos matam 42 duas crianças por terem feito piada de um profeta de Deus. No Alcoorão a dica é matar os que são de outra religião, e caso se arrependa é só dar uma rezadinha e pagar o dízimo.
 ---
 [<img alt="imagine-finished-1" src="/img/posts/2015/01/imagine-finished-.jpg"  />][1]
 

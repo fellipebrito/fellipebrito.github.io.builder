@@ -1,10 +1,8 @@
 ---
 title: Uma idéia para a igreja
-author: fellipe
-layout: post
 permalink: /uma-ideia-para-a-igreja/
-categories:
-  - Uncategorized
+layout: post
+subtitle: Eu tenho uma idéia para as Igrejas que querem "combater o homossexualismo".
 ---
 [<img alt="filei_478" src="/img/posts/2015/01/filei_478.jpg"  />][1]
 

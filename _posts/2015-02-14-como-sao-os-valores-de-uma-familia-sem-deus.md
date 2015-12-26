@@ -1,10 +1,8 @@
 ---
 title: Como são os valores de uma família sem (um) Deus
-author: fellipe
-layout: post
 permalink: /como-sao-os-valores-de-uma-familia-sem-deus/
-categories:
-  - Uncategorized
+layout: post
+subtitle: "Este é um ponto de vista sobre o artigo 'Como são os valores de uma família sem Deus / Quem educa melhor seus filhos: Ateus ou Crentes?' que foi escrito em Los Angeles no LA Times em inglês, e traduzido para o portugues pelo hypescience"
 ---
 [<img alt="familia-sem-religiao-838x559" src="/img/posts/2015/02/familia-sem-religiao-838x559.jpg"  />][1]
 
