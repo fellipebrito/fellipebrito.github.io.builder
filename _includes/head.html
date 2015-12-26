@@ -26,6 +26,8 @@
     <!-- Facebook Tags -->
     <meta property="og:image" content="{{ page.header-img | prepend: site.url }}" />
     <meta property="og:description" content="{{ page.subtitle }}"/>
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}"/>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

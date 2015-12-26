@@ -6,6 +6,7 @@ permalink: /daytripper/
 categories:
   - Uncategorized
 header-img: "img/posts/2013/10/genesis-cropped.jpg"
+subtitle: Qual criança não deseja ser adulto? Qual adulto não deseja ser criança. Porque desejamos sempre o que não podemos ter? Porque queremos liberdade e independência e depois queremos estabilidade e segurança?
 ---
 Qual criança não deseja ser adulto? Qual adulto não deseja ser criança.
 
