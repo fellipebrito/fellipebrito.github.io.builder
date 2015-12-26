@@ -18,11 +18,20 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
+                {% for page in site.pages_by_language[page.language] %}{% if page.title %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
                 {% endif %}{% endfor %}
+                {% if page.language == 'pt' %}
+                <li>
+                  <a href="/">Change it to English</a>
+                </li>
+                {% else %}
+                <li>
+                  <a href="/pt">Mudar para Português</a>
+                </li>
+                {% endif %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->

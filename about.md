@@ -5,12 +5,6 @@ description: "Who? What? How?"
 header-img: "img/about-bg.jpg"
 ---
 
-<p>13 anos de experiência como Programador Web e Mobile, Proprietário da empresa Devlandia com sede em Curitiba, Bi-Campeão de Fifa15 no modo Ultimate</p>
-<p>Eu prefiro ser essa metamorfose ambulante; do que ter aquela velha opinião formada sobre tudo.</p>
-<p>Minha Missão Pessoal é fazer valer a pena a vida que ganhei de DEUS, sendo um marido fiel e amoroso, um pai presente e um amigo/filho que reflita o caráter de Jesus. Investindo meus talentos e sendo um mordomo fiel para multiplicar em outros a vida que DEUS me deu.</p>
-<p>Cristão convicto e confesso, “por amor às causas perdidas”.</p>
-
-<h3>English, do you speak it?!</h3>
 <p>Since I was a teenager the development, creativity and improvisation were in my blood. Like every self-taught, I've started playing acoustic guitars and piano as well writing software by myself.</p>
 
 <p>I've started writing software with Visual Basic and Delphi! Wow, I still remember the big Delphi's bible I had to read to get good at it. I've spent a good amount of nights reading and coding. That was showing me how my future would be. My spare time is still full of tech books and late hours writing code.</p>
