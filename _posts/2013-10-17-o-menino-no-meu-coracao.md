@@ -36,5 +36,4 @@ Há um menino, Há um moleque&#8230; Morando sempre no meu coração
 
 Toda vez que o adulto fraqueja, Ele vem pra me dar a mão.
 
-<center>
-</center>&nbsp;
+{% include youtubePlayer.html id="SheYt2wyV5k" %}

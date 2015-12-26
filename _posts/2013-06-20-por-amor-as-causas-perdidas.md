@@ -9,13 +9,13 @@ categories:
 <center>
 </center>
 
-[<img alt="1014091_460755444019455_1028295901_n" src="/img/posts/2013/06/1014091_460755444019455_1028295901_n-300x298.jpg"  />][1]
+<img alt="1014091_460755444019455_1028295901_n" src="/img/posts/2013/06/1014091_460755444019455_1028295901_n.jpg"  />
 
 &nbsp;
 
 Quero abrir esse texto afirmando que longe de mim ser o dono da verdade. Longe de mim ser considerado, ou achado, como o Perfeito, como o Senhor da Guerra.
 
-Eu vou afirmar certezas, ideologias, utópico, não ligo. Seguir a Jesus é conviver com essa ambiciosa esperança de ser igual a ele, fazer as obras que ele fez, talvez até maiores.  
+Eu vou afirmar certezas, ideologias, utópico, não ligo. Seguir a Jesus é conviver com essa ambiciosa esperança de ser igual a ele, fazer as obras que ele fez, talvez até maiores.
 Fazer obras maiores do que Jesus é estedner a expressão do amor, da graça e da bondade de Deus até os confins da terra.
 
 Tudo bem, estou disposto a sofrer as consequências de ser considerado louco e até julgado por amor as causas perdidas.
@@ -82,8 +82,8 @@ Lutem pelas viúvas!
 
 Então, ahhhh, então, fiquem tranquilos… ainda que os vossos pecados sejam vermelhos como o sangue, eles se tornarão mais brancos do que a neve.
 
-Se vocês quiserem, E ME OBEDECEREM, terão sucesso ainda nessa vida!  
-&#8212;&#8212;-  
+Se vocês quiserem, E ME OBEDECEREM, terão sucesso ainda nessa vida!
+&#8212;&#8212;-
 Como escreveu CS Lewis: Eu pensava que seguíamos caminhos já feitos, mas parece que não os há. O nosso IR faz o caminho!
 
- [1]: /img/posts/2013/06/1014091_460755444019455_1028295901_n.jpg
+{% include youtubePlayer.html id="cbz1uFtePIY" %}

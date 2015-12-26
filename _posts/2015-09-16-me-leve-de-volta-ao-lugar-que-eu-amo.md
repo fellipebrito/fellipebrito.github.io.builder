@@ -27,6 +27,5 @@ Pelo menos eu tenho o seu amor.
 ***Eu não quero nunca mais me sentir, como eu me senti naquele dia.***  
 ***Me leve de volta ao lugar que eu amo, me guie por todo o caminho!***
 
-&nbsp;
+{% include youtubePlayer.html id="GLvohMXgcBo" %}
 
- [1]: /img/posts/2015/09/3f583341525e185f030f121000b793ed.jpg

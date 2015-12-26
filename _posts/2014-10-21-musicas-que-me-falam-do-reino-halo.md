@@ -24,6 +24,4 @@ Você é tudo o que eu quero, sou dependente da sua luz
 Posso ver essa graça em sua face, posso sentir a sua presença  
 Eu oro para que ela nunca vá embora
 
-&nbsp;
-
- [1]: /img/posts/2014/10/thumb.jpg
+{% include youtubePlayer.html id="bnVUHWCynig" %}

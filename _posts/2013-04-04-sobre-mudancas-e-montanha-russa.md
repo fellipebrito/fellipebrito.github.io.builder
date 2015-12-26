@@ -62,3 +62,5 @@ E é isso&#8230; segunda eu sento no carrinho, e começo a subir&#8230;
 e você, qual sua montanha russa, qual seu desafio&#8230; o que voce sempre quis fazer mas morre de medo? Faça chegar a sua hora de sentar no carrinho&#8230;.
 
 vamos nos arrepender diversas vezes, e vamos achar que fizemos a melhor coisa na vida outras diversas vezes&#8230; fácil não vai ser, mas vai ser uma aventura&#8230; vocês estão preparados?
+
+{% include youtubePlayer.html id="6khCjyJQtQE" %}

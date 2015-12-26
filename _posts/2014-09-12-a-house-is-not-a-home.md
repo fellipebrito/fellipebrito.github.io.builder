@@ -6,10 +6,8 @@ permalink: /a-house-is-not-a-home/
 categories:
   - Uncategorized
 ---
-<center>
-</center>
+{% include youtubePlayer.html id="79sjQYy80bE" %}
 
-  
 Normalmente sinto como se minha vida tivesse uma trilha sonora. Houveram e ainda há uma música para cada momento.
 
 Se ouço Bee Gees, lembro da praia, do meu pai ouvindo as músicas num som que dava pra tocar um baile, e de eu muito pequeno ouvindo essas músicas.
@@ -28,23 +26,23 @@ Tenho conhecido o mundo com a mulher da minha vida, mas quero muito compartilhar
 
 **A House is not a home &#8211; Kurt Elling**
 
-*Uma cadeira ainda é uma cadeira*  
-*Mesmo quando não há ninguém sentado lá*  
-*Mas uma cadeira não é uma casa*  
-*E uma casa não é um lar*  
-*Quando não há ninguém lá para te abraçar,*  
+*Uma cadeira ainda é uma cadeira*
+*Mesmo quando não há ninguém sentado lá*
+*Mas uma cadeira não é uma casa*
+*E uma casa não é um lar*
+*Quando não há ninguém lá para te abraçar,*
 *E ninguém lá para você dar um beijo de boa noite.*
 
-*A sala ainda é uma sala*  
-*Mesmo quando não há nada além de melancolia;*  
-*Mas uma sala não é uma casa,*  
-*E uma casa não é um lar*  
-*Quando nós dois estamos separados*  
+*A sala ainda é uma sala*
+*Mesmo quando não há nada além de melancolia;*
+*Mas uma sala não é uma casa,*
+*E uma casa não é um lar*
+*Quando nós dois estamos separados*
 *E um de nós tem um coração quebrado.*
 
-*De vez em quando eu chamo seu nome*  
-*E de repente, seu rosto aparece*  
-*Mas é apenas um jogo louco*  
+*De vez em quando eu chamo seu nome*
+*E de repente, seu rosto aparece*
+*Mas é apenas um jogo louco*
 *Quando ele termina, ele termina em lágrimas.*
 
 [<img alt="Soundtrack_of_my_Life_by_carlitaestrella[1]" src="/img/posts/2014/09/Soundtrack_of_my_Life_by_carlitaestrella1.jpg"  />][1]

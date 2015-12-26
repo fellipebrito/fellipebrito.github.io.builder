@@ -21,13 +21,13 @@ Infelizmente, nao esperamos nada de bom nos próximos dias, porque o ISIS, mais 
 
 A única maneira sã que eu encontro para conseguir encarar este mundo é a esperança de que há algo mais. Nós vivemos num mundo perdido&#8230; hoje meu coração está quebrado e sem esperança, essa música está em loop no meu rádio.
 
-Quero respirar o ar de um novo lar e avistar outras colinas.  
+Quero respirar o ar de um novo lar e avistar outras colinas.
 Que conspirariam contra o que já vi das paisagens conhecidas
 
-Tendo como cama a grama e teto o céu, esquecer minhas feridas  
+Tendo como cama a grama e teto o céu, esquecer minhas feridas
 e as memórias desta vida vou plantar e as regar com recomeços.
 
-Fecho os olhos e encho o peito do ar de um monte  
+Fecho os olhos e encho o peito do ar de um monte
 Onde rico e pobre comerão da mesa do rei
 
- [1]: /img/posts/2015/11/heavenly-new-jerusalem.jpg
+{% include youtubePlayer.html id="KWN0HX2Ls3Y" %}
