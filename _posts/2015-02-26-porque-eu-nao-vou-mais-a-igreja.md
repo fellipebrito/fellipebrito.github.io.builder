@@ -1,10 +1,8 @@
 ---
 title: Por que eu não vou mais a igreja?
-author: fellipe
-layout: post
 permalink: /porque-eu-nao-vou-mais-a-igreja/
-categories:
-  - Uncategorized
+layout: post
+subtitle: O texto a seguir é longo, porque não há maneira simples e curta de se responder isso. Ouço essas perguntas 30x por ano, como fonte para respostas utilizei o fantástico livro - Porque eu não quero mais ir a igreja. Aconselho MUITO a leitura desse livro.
 ---
 [<img alt="The_Church_Has_Left_The_Building_Banner" src="/img/posts/2015/02/The_Church_Has_Left_The_Building_Banner.png"  />][1]
 

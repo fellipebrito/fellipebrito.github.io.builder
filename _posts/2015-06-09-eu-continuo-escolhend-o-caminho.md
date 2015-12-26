@@ -1,10 +1,8 @@
 ---
 title: Eu continuo escolhendo o caminho
-author: fellipe
-layout: post
 permalink: /eu-continuo-escolhend-o-caminho/
-categories:
-  - Uncategorized
+layout: post
+subtitle: Há mais de 2 anos eu escrevi sobre tudo isso que está acontecendo hoje. A falta de respeito é de ambos os lados, só que apenas um lado tem como &#8220;mandamento&#8221; amar o próximo como a si mesmo. (Mateus 22:39) A falta de cuidado é de ambos os lados, mas só um lado teve em seu fundador alguém que preferiu morrer sem se defender do que aceitar a ajuda da espada de um discipulo. (Joao 18:10)
 ---
 [<img alt="11137614_973717679306037_115024636_n" src="/img/posts/2015/06/11137614_973717679306037_115024636_n.jpg"  />][1]
 

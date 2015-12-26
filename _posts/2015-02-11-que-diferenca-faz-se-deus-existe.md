@@ -1,10 +1,10 @@
 ---
 title: Que diferença faz se Deus existe?
-author: fellipe
-layout: post
 permalink: /que-diferenca-faz-se-deus-existe/
+layout: post
 categories:
   - apologetica
+subtitle: Meu objetivo, por hora, é mais modesto do que lhe convencer de que Deus existe, eu apenas espero que você pense a respeito desse problema, para realizar que o assunto sobre a existência de Deus tem profundas consequências para nossas vidas e que nós não podemos nos dar o privilégio de ser indiferentes quanto a isso.
 ---
 #### [<img alt="Deus existe" src="/img/posts/2015/02/Deus-existe.jpg"  />][1]
 

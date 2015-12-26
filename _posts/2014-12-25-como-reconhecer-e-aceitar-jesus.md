@@ -1,16 +1,11 @@
 ---
 title: Como reconhecer e aceitar Jesus?
-author: fellipe
-layout: post
 permalink: /como-reconhecer-e-aceitar-jesus/
-categories:
-  - Uncategorized
+layout: post
+subtitle: Não importa se foi direto numa celebração em alguma igreja, ou falando com um amigo cristão, você já ouviu a afirmação: <strong>Você precisa aceitar Jesus</strong>.
 ---
 <div>
   <a href="/img/posts/2014/12/jesus_talking_to_the_dc_heroes_by_tsart-d58o58v.jpg"><img alt="jesus_talking_to_the_dc_heroes_by_tsart-d58o58v" src="/img/posts/2014/12/jesus_talking_to_the_dc_heroes_by_tsart-d58o58v-300x231.jpg"  /></a>
-</div>
-
-<div>
 </div>
 
 <div>

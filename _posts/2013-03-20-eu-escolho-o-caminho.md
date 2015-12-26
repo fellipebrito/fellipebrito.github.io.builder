@@ -1,11 +1,11 @@
 ---
 title: EU escolho O caminho
-author: fellipe
-layout: post
 permalink: /eu-escolho-o-caminho/
+layout: post
 categories:
   - Coisas que eu acho que acho
   - Pensamentos
+subtitle: "Sobre o papa ser homofóbico, o Feliciano ser racista, e os gays serem todos do demonio, o que mais me preocupa é quando vamos nos olhar como irmãos"
 ---
 Sobre o papa ser homofóbico, o Feliciano ser racista, e os gays serem todos do demonio, o que mais me preocupa é quando vamos nos olhar como irmãos&#8230;
 

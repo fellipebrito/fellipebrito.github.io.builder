@@ -1,10 +1,8 @@
 ---
 title: Os amigos virtuais e a solidão
-author: fellipe
-layout: post
 permalink: /os-amigos-virtuais-e-a-solidao/
-categories:
-  - Uncategorized
+layout: post
+subtitle: Eu ainda lembro bem da primeira vez que isso aconteceu. O momento em que eu comecei a contar uma história para alguém e falei &#8220;certa vez um amigo meu&#8230;&#8221;, segundos após começar a contar a história, eu me recordei que não era um amigo meu, mas um dos participantes de um dos podcasts que eu ouço regularmente.
 ---
 [<img alt="tamagotchi4" src="/img/posts/2015/08/tamagotchi4.jpg"  />][1]
 
