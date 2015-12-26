@@ -5,10 +5,8 @@ layout: post
 permalink: /daytripper/
 categories:
   - Uncategorized
+header-img: "img/posts/2013/10/genesis-cropped.jpg"
 ---
-[  
-<img alt="daytripper-cover" src="/img/posts/2013/10/daytripper-cover.jpg"  />][1]
-
 Qual criança não deseja ser adulto? Qual adulto não deseja ser criança.
 
 Porque desejamos sempre o que não podemos ter? Porque queremos liberdade e independência e depois queremos estabilidade e segurança?
@@ -49,10 +47,10 @@ Porque chorar é tão dificil?
 
 &nbsp;
 
-PS: Avalanche de pensamentos produzidos pela leitura do fantástico quadrinho **Daytripper**  
-Baixe aqui: http://www.mediafire.com/?r8e6hk1c3r9ah  
-Compre aqui: http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?isbn=1401229697  
-Compre em Inglês aqui: http://www.amazon.com/gp/product/1401229697[  
+PS: Avalanche de pensamentos produzidos pela leitura do fantástico quadrinho **Daytripper**
+Baixe aqui: http://www.mediafire.com/?r8e6hk1c3r9ah
+Compre aqui: http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?isbn=1401229697
+Compre em Inglês aqui: http://www.amazon.com/gp/product/1401229697[
 ][1]
 
  [1]: /img/posts/2013/10/daytripper-cover.jpg
