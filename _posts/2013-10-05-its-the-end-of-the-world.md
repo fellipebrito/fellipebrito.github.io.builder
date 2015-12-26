@@ -6,8 +6,7 @@ permalink: /its-the-end-of-the-world/
 categories:
   - Uncategorized
 ---
-<center>
-</center>&nbsp;
+{% include youtubePlayer.html id="Z0GFRcFm-aY" %}
 
 Quantos mundos você já conheceu? Quantos &#8220;Big Bangs&#8221; você já presenciou? E a evolução da espécie, você acredita?
 

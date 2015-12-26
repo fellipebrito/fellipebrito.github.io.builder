@@ -26,4 +26,4 @@ Viver uma grande história
 **Aqui ou noutro lugar, que pode ser feio ou bonito**  
 ** Se nós estivermos juntos haverá um céu azul.**
 
-&nbsp;
+{% include youtubePlayer.html id="fKEiiXA6VLE" %}

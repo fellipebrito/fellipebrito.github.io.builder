@@ -24,3 +24,5 @@ Estamos alimentando em nós esse revanchismo, este ódio, que não traz nada a n
 A longo prazo, tudo isso é MUITO perigoso. Vemos pequenos indícios de uma guerra civil, e isso tudo deveria ser muito mais preocupante do que com quem eu, voce ou o nosso vizinho dorme.
 
 Estamos todos sobre o mesmo chão. A maioria aponta cercas e muros&#8230; EU escolho O caminho.
+
+{% include youtubePlayer.html id="UthtgHw2uxw" %}
