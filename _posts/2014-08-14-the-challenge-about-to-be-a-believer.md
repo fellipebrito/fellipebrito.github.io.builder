@@ -2,7 +2,8 @@
 title: 'The Challenge of being &#8220;A Believer&#8221;'
 permalink: /the-challenge-about-to-be-a-believer/
 layout: post
-subtitle: I went to one of the biggest ruby conferences in the world, which happened last april in Chicago. Everyone who I look up to was there. The best developers, speakers and entrepreneurs&#8230; the brightest and most creative minds from my community were there to share their thoughts.
+subtitle: It is easy to make sure other developers take my code seriously. The challenge is trying to offer something deeper than my logical explanations when some friend needs hope rather than facts.
+header-img: "img/bg/unique.jpg"
 ---
 ![God is not dead](/img/posts/2014/08/1795609_10152316502144161_1986893913_n.jpg)
 

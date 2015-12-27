@@ -2,20 +2,18 @@
 title: O desafio de ser crente
 author: fellipe
 layout: post
+subtitle: É muito fácil fazer alguém levar meu código a sério. O desafio é tentar oferecer algo mais profundo do que a minha lógica pode explicar quando um amigo precisa mais de esperança do que de fatos.
+header-img: "img/bg/unique.jpg"
 permalink: /o-desafio-de-ser-crente/
-categories:
-  - Uncategorized
 ---
-[<img alt="1795609_10152316502144161_1986893913_n" src="/img/posts/2014/08/1795609_10152316502144161_1986893913_n-300x231.jpg"  />][1]
-
 Em Abril eu estive em uma das maiores conferências com desenvolvedores Ruby do mundo em Chicago. Todos os caras que eu admiro estavam lá. Os melhores desenvolvedores, palestrantes, empreendedores&#8230; As mentes mais criativas e impressionantes da minha profissão estavam lá.
 
 Me senti pequeno no meio de tanta gente boa. E é claro, serviu como inspiração para me tornar melhor, para estudar mais e para melhorar o serviço que eu entrego para os meus clientes e a equipe que eu gerencio.
 
 Colocando de lado toda a parte técnica, algo me chamou a atenção. Como eu já deixei claro aqui no meu blog, eu sou apaixonado por estatísticas. Sendo assim, quando eu vi que havia um questionário anual, preenchido pelos frequentadores dessa conferência, eu prontamente preenchi ele e fui conferir os resultados. [<a href="http://www.ruby-survey.com/stats" target="_blank">http://www.ruby-survey.com/stats</a>].
 
-Muitos dados técnicos me chamam a atenção aí, falo sobre eles no meu outro blog, em que escrevo sobre código: [<a href="http://code.fellipebrito.com/" target="_blank">http://code.fellipebrito.com/</a>]. Neste post eu quero falar sobre um outro número que me chocou: **&#8220;What are your religious beliefs?/Quais são suas crenças religiosas&#8221;**. Os números são chocantes para um país considerado cristão:  
-- em 2012 **19%** eram monoteístas, um número **4% menor** do que em 2009.  
+Muitos dados técnicos me chamam a atenção aí, falo sobre eles no meu outro blog, em que escrevo sobre código: [<a href="http://code.fellipebrito.com/" target="_blank">http://code.fellipebrito.com/</a>]. Neste post eu quero falar sobre um outro número que me chocou: **&#8220;What are your religious beliefs?/Quais são suas crenças religiosas&#8221;**. Os números são chocantes para um país considerado cristão:
+- em 2012 **19%** eram monoteístas, um número **4% menor** do que em 2009.
 - em 2012 **68%** eram ateístas ou agnósticos, um número **6% maior **do que em 2008.
 
 Mais tarde este ano, em um evento menor, com profissionais da mesma área e que algumas vezes dividem os mesmos projetos que eu, num total de aproximadamente **40 pessoas, **eu fui o único a falar: **sou cristão**.
@@ -24,8 +22,8 @@ Quando eu defini isso como um desafio: [<a href="https://twitter.com/fellipeedua
 
 Na maioria das conversas, artigos que leio, ou exposições de pensamento em redes sociais, o que se sente é que ser ateu ou agnóstico virou um &#8220;status&#8221;. É sinonimo de ser inteligente. Adaptando a famosa conclusão de Descartes, &#8220;*Sou inteligente, logo sou ateu*&#8220;.
 
-Ao fazer um experimento e enviar SMS para toda minha lista de contato dizendo &#8220;Deus não está morto&#8221;, recebi como resposta dois comentários interessantes, em menos de 30 minutos:  
-- Se ele não está, com certeza ele não dá a minima para o Brasil.  
+Ao fazer um experimento e enviar SMS para toda minha lista de contato dizendo &#8220;Deus não está morto&#8221;, recebi como resposta dois comentários interessantes, em menos de 30 minutos:
+- Se ele não está, com certeza ele não dá a minima para o Brasil.
 - Isso não foi o que Nietzsche falou.
 
 As inúmeras e catastróficas decisões, afirmações e atitudes da igreja evangélica nos últimos 50 anos servem ainda mais para fortalecer essa conclusão. O cérebro de um crente é menor que o do Homer Simpson.
@@ -53,5 +51,3 @@ O desafio é ser uma &#8220;testemunha viva&#8221; de algo que tem sido consider
 O desafio é ser um tempero interessante em um mundo que é cada vez mais &#8220;receita pronta&#8221;.
 
 O desafio, como Carl Sagan, um &#8220;santo&#8221; dos ateus e agnósticos, sabiamente falou em seu livro, é tentar ficar quieto&#8230;  *&#8220;Porque eu não posso. Eu… tive uma experiência… Eu não posso provar isso, Eu não posso explicar isso, mas tudo que eu sei como ser humano, tudo que eu sou me diz que isso foi real! Algo maravilhoso me foi entregue, algo que me mudou pra sempre… Uma visão… do universo, que nos diz, inquestionavelmente, o quão pequenos e insignificantes nós somos e o quão… raro e preciosos nós somos! Uma visão que nos diz que pertencemos algo maior que nós mesmos, e que não estamos sozinhos! Eu desejo… Eu… gostaria muito de poder compartilhar isso… Eu gostaria que, cada um, mesmo que por um… momento, pudesse sentir… esse temor, e humilhação, e paz. Mas … isso continua sendo apenas o meu desafio.&#8221;*
-
- [1]: /img/posts/2014/08/1795609_10152316502144161_1986893913_n.jpg

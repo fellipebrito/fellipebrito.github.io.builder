@@ -3,9 +3,8 @@ title: Happy 4th July
 permalink: /happy-4th-july/
 layout: post
 subtitle: I really think it might be hard to understand what it means the 4th of July if you had never experienced the lack of freedom.
+header-img: "img/bg/freedom.jpg"
 ---
-[<img alt="Usa-Flag-Hd-Wallpaper-3108x2368" src="/img/posts/2015/07/Usa-Flag-Hd-Wallpaper-3108x236.jpg"  />][1]
-
 I really think it might be hard to understand what it means the 4th of July if you had never experienced the lack of freedom.
 
 I live surrounded by Americans, and they complain about America every week. They talk about the bad things that happen all over the country. They complain about war and peace; they complain about the economy, education, health care and all other shit that we all face around the world.
@@ -21,5 +20,3 @@ And I also pray to God for those who will never have the opportunity to taste th
 I&#8217;m glad to be here, not sure how much long it will be, but for now, I&#8217;m happy to be part of the land of the free and the home of the brave.
 
 Happy 4th July.
-
- [1]: /img/posts/2015/07/Usa-Flag-Hd-Wallpaper-3108x2368.jpg
