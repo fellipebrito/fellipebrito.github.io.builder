@@ -123,7 +123,13 @@ Bacon, the father of empiricism, affirms that “God never wrought miracle, to c
 
 ### Conclusion
 
-I’ve found answers to all those questions and much more.
+I think it would be inconsistent to require more justification for Christian belief than you do for your own, but that is frequently what happens. In fairness you must doubt your doubts.
+
+I agree with Timothy Keller’s thesis that if you come to recognize the beliefs on which your doubts about Christianity are based, and if you seek as much proof for those beliefs as you seek from Christians for theirs - you will discover that your doubts are not as solid as they first appeared.
+
+I commend two processes to the readers of this post. I urge skeptics to wrestle with the unexamined “blind faith” on which skepticism is based, and to see how hard it is to justify those beliefs to those who do not share them. I also urge believers to wrestle with their personal and culture’s objections to the faith. At the end of each process, even if you remain the skeptic or believer you have been, you will hold your own position with both greater clarity and greater humility. Then there will be an understanding, sympathy and respect for the other side the did not exist before.
+
+I myself have done that and found answers to all those questions and much more.
 
 They are not only isolated answers; they are trustworthy arguments from any standpoint. Scientific, Philosophical, Cosmological and Historical.
 

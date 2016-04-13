@@ -125,6 +125,12 @@ Bacon, o pai do empirismo, afirma que *“Deus nunca operou um milagre para conv
 
 #### Conclusão
 
+Eu acho que é inconsistente exigir mais justificações das certezas Cristã do que da sua própria, mas isso é o que acontece frequentemente. Para que haja um julgamento justo, voce deve duvidar das suas dúvidas.
+
+Eu concordo com a tese do Timothy Keller que diz que se você prestar atenção nas dúvidas que você tem a respeito do Cristianismo, e se você procurar respostas para suas certezas com a mesma força que você exige que os cristãos tenham pra deles, você irá descobrir que suas certezas não são tao sólidas quanto voce imaginava.
+
+Eu recomendo que tanto os céticos quanto os crentes avaliem suas certezas, analisem as dúvidas do outro lado, tentem entender o que se passa do outro lado. No final desse processo, mesmo que voce continue o cético ou crente que voce sempre foi, você terá mais clareza sobre a sua posição. Isso trará um melhor entendimento, simpatia e respeito pelo outro lado, muito mais do que existia antes.
+
 Eu tenho achado resposta para estas perguntas e muitas mais. Elas não são respostas isoladas; elas são argumentos confiáveis de qualquer ponto de vista, seja ele científico, filosófico, cosmológico ou histórico.
 
 Através dessas respostas eu posso construir uma estrutura que me dá o que eu preciso para que minha vida tenha significado, valor e propósito e portanto não seja mais absurda.
