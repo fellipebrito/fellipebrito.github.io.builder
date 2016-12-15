@@ -42,3 +42,5 @@ E os presentes de Natal? Sim, pode ser que houvesse um significado pagão por tr
 
 
 Temos LIBERDADE para REINVENTAR eventos culturais com um novo significado espiritual.
+
+_Este é o segundo post de uma série de 3. Para ler o primeiro clique <a href="{{ site.baseurl }}/pt/natal-pagao-guia-definitivo-01/">aqui</a>, e para ler o ultimo <a href="{{ site.baseurl }}/pt/natal-pagao-guia-definitivo-03/">aqui</a>._

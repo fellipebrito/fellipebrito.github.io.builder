@@ -1,6 +1,6 @@
 ---
-title: Natal, uma festa pagã - Guia Definitivo [2/3]
-permalink: /natal-pagao-guia-definitivo-02/
+title: Natal, uma festa pagã - Guia Definitivo [3/3]
+permalink: /natal-pagao-guia-definitivo-03/
 layout: post
 subtitle: "É importante separar significado do Natal do espírito do natal. O significado do natal é teológico, já o espírito do natal é emocional...."
 header-img: "img/bg/natal-3.jpg"
@@ -49,3 +49,6 @@ Se durante o natal eu tenho pinheiros e luzes, isso é só uma expressão cultur
 
 
 Nunca. Nunca confunda a bola de ping pong, com as bolas do king kong.
+
+
+_Este é o ultimo post de uma série de 3. Para ler o primeiro clique <a href="{{ site.baseurl }}/pt/natal-pagao-guia-definitivo-01/">aqui</a>._
