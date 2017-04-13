@@ -52,9 +52,6 @@ Se Dawkins esta correto, então podemos imaginar a seguinte conversa…
 
 **Lucas:** Paulo, o Fariseu!? Eu não posso imaginar ele se misturando com esse tipo de conspiração
 
-
---
-Texto livremente traduzido de https://www.thegospelcoalition.org/article/if-richard-dawkins-is-right
 **Marcos:** Mano, se liga. Ele é meu parceiro. Eu já posso imaginar ele deixando para trás todos os anos de estudo, a carreira bem sucedida e o futuro promissor como líder em Jerusalém para sair por aí plantando pequenas congregações de adoradores de Jesus por todo o Império Romano, não importa o quanto isso vai custar pra ele - surras, prisões, perseguição, discriminação e coisas do tipo.
 
 **Mateus:** Irado! Mas Lucas, você pode me lembrar o porque estamos fazendo isso mesmo? Qual o objetivo final? Afinal… porque estamos fazendo isso?
@@ -69,3 +66,4 @@ Texto livremente traduzido de https://www.thegospelcoalition.org/article/if-rich
 
 **Lucas:** Fechado! Vamos começar...
 
+Texto livremente traduzido de https://www.thegospelcoalition.org/article/if-richard-dawkins-is-right
