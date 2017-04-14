@@ -38,13 +38,13 @@ Principalmente numa cultura onde acreditar e adorar em alguém que voltou dos mo
 
 Bem, começando com o próprio lugar onde ele foi crucificado, centenas de pessoas começaram a falar que viram ele voltar dos mortos - e assim, o Cristianismo explodiu e novos crentes começaram a aparecer exponencialmente.
 
-Agora, se você parar pra pensar nisso, a única coisa que realmente pode ter movido centenas ou milhares de pessoas dizerem para todo mundo que eles literalmente viram o Cristo ressuscitado com os próprios olhos, e que eles preferiam correr o risco de punições gravíssimas do que negar a história, é que eles eles sabiam que isso era verdade. Sério, pensa um pouco a respeito disso.
+Agora, se você parar pra pensar nisso, a única coisa que realmente pode ter movido centenas ou milhares de pessoas a dizerem para todo mundo que eles literalmente viram o Cristo ressuscitado com os próprios olhos, e que eles preferiam correr o risco de punições gravíssimas do que negar a história, é que eles eles sabiam que isso era verdade. Sério, pensa um pouco a respeito disso.
 
-Eu sou tão feliz por não ser religioso, ou ter um QI baixo, ou ser um maria vai com as outras, porque se eu fosse, com certeza eu repensei minha posição. Mas se eu faço isso eu seria um destes molengas, movidos apenas por emoção, crentelhos.
+Eu sou tão feliz por não ser religioso, ou ter um QI baixo, ou ser um maria vai com as outras, porque se eu fosse, com certeza eu repensaria minha posição. Mas se eu faço isso eu seria um destes molengas, movidos apenas por emoção, crentelhos.
 
 <hr />
 
-Então aqui estão. Três razões bem fortes, nao? Eu te falei. Elas são super solidas. Eu sinto muito por estes mente fracas que acreditam tão facilmente nisso. Se você acredita nisso, com certeza voce é um daqueles mente-fraca, sem capacidade de raciocinar, hilários crentes.
+Então aqui estão. Três razões bem fortes, nao? Eu te falei. Elas são super solidas. Eu sinto muito por estes mente fracas que acreditam tão facilmente nisso. Se você acredita nisso, com certeza voce é um daqueles mente-fraca, sem capacidade de raciocinar, crentes hilários.
 
 Eu, em contrapartida, não sou nada disso, e é por isso que eu não acredito em nada disso.
 Sou tão feliz que ninguém nunca fez uma lavagem cerebral em mim, senão, provavelmente, estes argumentos soariam como evidência.
