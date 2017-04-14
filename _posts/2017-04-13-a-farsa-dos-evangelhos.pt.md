@@ -66,4 +66,14 @@ Se Dawkins esta correto, então podemos imaginar a seguinte conversa…
 
 **Lucas:** Fechado! Vamos começar...
 
+
+<hr />
+
+<img src="/img/sello-sarcasmo.jpg" />
+Esse texto é sarcasmo. Se voce nao consegue entender sarcasmo, aconselho que assista um pouco de The Big Bang Theory ;)
+
+<img src="https://media.giphy.com/media/pgQY5UuD8DUdi/giphy.gif" />
+
+<hr />
+
 Texto livremente traduzido de https://www.thegospelcoalition.org/article/if-richard-dawkins-is-right
