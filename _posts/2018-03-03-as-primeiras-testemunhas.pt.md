@@ -33,6 +33,8 @@ Se os autores dos evangelhos sentissem que tinham liberdade de manipular a narra
 
 Mesmo sendo inoportuno e embaraçoso o fato de que mulheres, cujo testemunho seria tido como sem mérito, foram as principais testemunhas do túmulo vazio, o compilador desses eventos optou por ser fiel ao relato das testemunhas oculares. Essa é a única explicação que faz sentido.
 
+----
+
 #### Fontes:
 - [Escritos de Flavio Josefo](http://www.sacred-texts.com/jud/josephus/ant-4.htm){:target="_blank"}
 - [The Resurrection of the Son of God - NT Wright](https://www.amazon.com/Resurrection-Christian-Origins-Question-Vol/dp/0800626796){:target="_blank"}
