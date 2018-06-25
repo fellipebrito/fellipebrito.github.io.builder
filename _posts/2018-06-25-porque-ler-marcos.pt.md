@@ -5,7 +5,7 @@ layout: post
 subtitle: "Marcos promete que a história será emocionante e que vale a pena acompanhar o herói principal..."
 header-img: "img/ark.jpg"
 ---
-Porque ler Marcos?
+# Porque ler Marcos?
 
 O tempo prometido chegou. O Reino de Deus é inaugurado com a chegada de Jesus!
 

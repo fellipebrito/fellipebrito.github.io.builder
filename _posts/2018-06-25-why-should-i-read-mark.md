@@ -5,7 +5,7 @@ layout: post
 subtitle: "Mark starts at full speed, I would not lost this Hero in his journey."
 header-img: "img/ark.jpg"
 ---
-Why should I read Mark?
+# Why should I read Mark?
 
 The long wait is ended! Jesus is here and he inaugurates The Kingdom of God.
 
